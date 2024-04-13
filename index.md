@@ -28,10 +28,4 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 I am primarily interested in language acquisition, language processing, and theoretical semantics. I employ both experimental and corpus methods to address core questions of how children and adults process, acquire, and understand language in meaningful ways.
 
----
-
-## News and Updates
-
-- April 2024: Very excited to get a Ph.D. offer from Linguistics department at the University of Southern California!
-
 

@@ -14,8 +14,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **2024 - Future：**University of Southern California** (Incoming PhD student in Linguistics)
-- **2023: **The University of California, Los Angeles (UCLA)**
+- 2024 - Future：**University of Southern California** (Incoming PhD student in Linguistics)
+- 2023: **The University of California, Los Angeles (UCLA)**
 
 ---
 
@@ -32,6 +32,6 @@ I am primarily interested in language acquisition, language processing, and 
 
 ## News and Updates
 
-- **April 2024: ** Very excited to get a Ph.D. offer from Linguistics department at the University of Southern California!
+- April 2024: Very excited to get a Ph.D. offer from Linguistics department at the University of Southern California!
 
 

@@ -1,5 +1,5 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+title: Yue Chen
+# tagline: Here is personal website of Yue Chen. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://caihanlin.com
@@ -36,19 +36,13 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: China/HongKong
 future: true
 highlighter: rouge
 # markdown: kramdown

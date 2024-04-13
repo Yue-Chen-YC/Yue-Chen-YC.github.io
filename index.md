@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yue Chen (Cara, 陈玥)**.
 
-I am a Junior Research Assistant under the supervision of *[Prof. Maggie Ziyin Mai]* (https://maiziyin.com/research/) at the Chinese University of Hong Kong (CUHK).
+I am a Junior Research Assistant under the supervision of Prof. Maggie Ziyin Mai at the Chinese University of Hong Kong (CUHK).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *yuechen218[at]cuhk[dot]edu[dot]hk*
 

@@ -6,29 +6,27 @@ title: Publications
 
 > Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
-## Conference Paper
+## Conference Presentations and Posters (Selected)
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024. Full paper will be submitted to KDD 2024.
-
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- Chen, Y., Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [Presentation] Child Language Symposium 2024, Newcastle, UK. 
+- Chen, Y. (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [Poster] The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
+- Chen, Y. (2023, May). Do It By Yourself, The Grammatical Functions of Reflexive Pronoun in Everyday Play. [Presentation] UCLA Undergraduate Research Week (URW) 2023, Los Angeles, CA. 
+- Chen, Y. (2023, May). Reflexive Pronoun Input in Naturalistic Discourse. [Presentation] Psychology Undergraduate Research Conference (PURC) 2023, Los Angeles, CA. 
+- Chen, Y. (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. [Poster], 22nd Meeting of the Texas Linguistics Society, Austin, TX.
+- Chen, Y. (2023, February). Children’s Interpretation of English Reflexive Pronouns in Everyday Play. [Presentation], Language and Cognitive Development Lab Meeting, Los Angeles, CA. 
 
 <br>
 
 ## Journal Paper
 
-- Coming soon!
-
+- Chen, Y., Neer, E., Zhang, E., Sandhofer, C.M., (under review). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. Language Development Research.
   <br>
 
 ---
 
 ## Working Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
+- Parental input of Chinese reflexive pronoun "ziji" and childrens' outcome <br>
 
   <br>
 
@@ -36,8 +34,7 @@ title: Publications
 
 ## Undergrad Thesis
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
+- Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation <br>**Catherine M. Sandhofer** (Advisor: Catherine M. Sandhofer).
+- Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data 
+ <br>**Jesse Harris** (Advisor: Jesse Harris).
   <br>

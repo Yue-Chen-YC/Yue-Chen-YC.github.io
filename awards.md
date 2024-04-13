@@ -14,14 +14,6 @@ title: Awards
 - 2023：BUCLA College of Letters and Science Latin Honors: Cum Laude
 - 2022：UCLA/Keck Humanistic Inquiry Undergraduate Research Award (Keck)  
 
-## Conference Presentations and Posters (Selected)
-
-- Chen, Y., Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [Presentation] Child Language Symposium 2024, Newcastle, UK. 
-- Chen, Y. (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [Poster] The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
-- Chen, Y. (2023, May). Do It By Yourself, The Grammatical Functions of Reflexive Pronoun in Everyday Play. [Presentation] UCLA Undergraduate Research Week (URW) 2023, Los Angeles, CA. 
-- Chen, Y. (2023, May). Reflexive Pronoun Input in Naturalistic Discourse. [Presentation] Psychology Undergraduate Research Conference (PURC) 2023, Los Angeles, CA. 
-- Chen, Y. (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. [Poster], 22nd Meeting of the Texas Linguistics Society, Austin, TX.
-- Chen, Y. (2023, February). Children’s Interpretation of English Reflexive Pronouns in Everyday Play. [Presentation], Language and Cognitive Development Lab Meeting, Los Angeles, CA. 
 
 ## Public and University Events 
 

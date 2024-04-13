@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg](https://github.com/Yue-Chen-YC/Yue-Chen-YC.github.io/blob/5f90daf423e5ef9c29d1f45870dea523bc6be495/images/caihanlin.jpg)" class="floatpic" width="360" height="480">
+<img src="" class="floatpic" width="360" height="480">
 
 Here is **Yue Chen (Cara, 陈玥)**.
 

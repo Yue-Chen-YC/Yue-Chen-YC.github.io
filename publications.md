@@ -19,14 +19,14 @@ title: Publications
 
 ## Journal Paper
 
-- Chen, Y., Neer, E., Zhang, E., Sandhofer, C.M., (under review). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. Language Development Research.
+- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (under review). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. Language Development Research.
   <br>
 
 ---
 
 ## Working Manuscript
 
-- Parental input of Chinese reflexive pronoun "ziji" and childrens' outcome <br>
+- Parental input of Chinese reflexive pronoun "ziji" and children's outcome <br>
 
   <br>
 
@@ -34,7 +34,7 @@ title: Publications
 
 ## Undergrad Thesis
 
-- Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation <br>**Catherine M. Sandhofer** (Advisor: Catherine M. Sandhofer).
+- Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation <br> (Advisor: **Catherine M. Sandhofer**).
 - Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data 
- <br>**Jesse Harris** (Advisor: Jesse Harris).
+ <br> (Advisor: **Jesse Harris**).
   <br>

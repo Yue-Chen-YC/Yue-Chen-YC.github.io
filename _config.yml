@@ -13,7 +13,7 @@ owner:
   cv: file/CV-YueChen.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: Yue-Chen-YC
-  linkedin: https://www.linkedin.com/in/yue-c-38a1b71ab/
+  linkedin: https://www.linkedin.com/in/yue-c-yuechen/
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -39,7 +39,7 @@ links:
     url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/HongKong
+timezone: Hongkong
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -68,7 +68,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: yuechen
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

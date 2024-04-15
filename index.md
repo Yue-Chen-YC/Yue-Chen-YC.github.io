@@ -12,7 +12,7 @@ I am a Junior Research Assistant under the supervision of Prof. Maggie Ziyin Ma
 
 Before coming to CUHK, I completed my Bachelor of Arts degree in Linguistics and Psychology at the University of California, Los Angeles (UCLA), and served as a Research Assistant at the Language and Cognition Development (LCD) Lab and the Language Processing Lab.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - **yuechen218[at]cuhk[dot]edu[dot]hk**
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - **yuechen218@cuhk.edu.hk**
 
 ## Academic Background
 

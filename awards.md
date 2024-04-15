@@ -25,4 +25,4 @@ title: Awards
 
 - 2022 - 2023：UCLA Undergraduate Research Peer Mentor
 - 2019 - Present：Child Rescue Organization - China (Non-Profit)
-- 2022 ：Exploring Your Universe (EYU) - UCLA Psychology Department 
+- 2022：Exploring Your Universe (EYU) - UCLA Psychology Department 

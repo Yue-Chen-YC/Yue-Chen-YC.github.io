@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="[images/yuechen.jpg] class="floatpic" width="360" height="480">
+<img src="images/yuechen.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yue Chen (Cara, 陈玥)**.
 

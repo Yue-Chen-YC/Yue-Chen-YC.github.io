@@ -14,7 +14,7 @@ Before coming to CUHK, I completed my Bachelor of Arts degree in Linguistics and
 
 ## Academic Background
 
-- 2024 - 2029：**University of Southern California** (Incoming Ph.D. student in Linguistics)
+- 2024 - Present：**University of Southern California** (Incoming Ph.D. student in Linguistics)
 - 2023: **The University of California, Los Angeles (UCLA)**
 
 ---

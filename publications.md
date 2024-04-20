@@ -13,13 +13,13 @@ title: Publications
 - **Chen, Y.** (2023, May). Do It By Yourself, The Grammatical Functions of Reflexive Pronoun in Everyday Play. **[Presentation]** UCLA Undergraduate Research Week (URW) 2023, Los Angeles, CA. 
 - **Chen, Y.** (2023, May). Reflexive Pronoun Input in Naturalistic Discourse. **[Presentation]** Psychology Undergraduate Research Conference (PURC) 2023, Los Angeles, CA. 
 - **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. **[Poster]**, 22nd Meeting of the Texas Linguistics Society, Austin, TX.
-- **Chen, Y.** (2023, February). Children’s Interpretation of English Reflexive Pronouns in Everyday Play. **[Presentation]**, Language and Cognitive Development Lab Meeting, Los Angeles, CA. 
-
+  
 <br>
 
 ## Journal Paper
 
-- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (under review). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. Language Development Research.
+- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (accepted). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal.
+.
   <br>
 
 ---

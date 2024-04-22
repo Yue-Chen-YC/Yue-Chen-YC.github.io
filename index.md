@@ -6,7 +6,7 @@ layout: page
 
 <img src="images/yuechen.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yue Chen (Cara, 陈玥)**.
+Here is **Yue Chen (陈玥 [ʈʂʰən35 ɥœ51])**.
 
 I am a Junior Research Assistant under the supervision of [Prof. Maggie Ziyin Mai](https://maiziyin.com/) at the Chinese University of Hong Kong (CUHK).
 

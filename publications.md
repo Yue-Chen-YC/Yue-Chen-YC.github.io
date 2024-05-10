@@ -27,8 +27,7 @@ title: Publications
 ## Working Manuscript
 
 - Parental input of Chinese reflexive pronoun "ziji" and children's outcome <br>
-
-  <br>
+- The reflexive pronoun usage in Mandarin-speaking children with autism spectrum disorder compared to typically developing children using corpus data <br>
 
 ---
 

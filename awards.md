@@ -18,7 +18,6 @@ title: Awards
 ## Public and University Events 
 
 - 2023：**Invited Presenter, Bruin Day for Admitted Transfers, UCLA** <br>A presentation about my current honors thesis, discuss my previous research journey as an undergraduate with a Q&A session on how to conduct research and find resources as an undergraduate student at the University of California, Los Angeles
-- 2023：**Panelist, Research Revealed, UCLA** <br>Discussion of interview practices and research process of how to become a research assistant at an interested lab with a Q&A session
 
 ## Volunteer
 

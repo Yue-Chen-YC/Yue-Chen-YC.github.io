@@ -26,6 +26,6 @@ Before coming to CUHK, I completed my Bachelor of Arts degree in Linguistics and
 - Heritage Language
 - Semantics
 
-I am primarily interested in language acquisition, language processing, and theoretical semantics. I employ both experimental and corpus methods to address core questions of how children and adults process, acquire, and understand language in meaningful ways.
+My primary interests lie in language acquisition, language processing, and theoretical semantics. I utilize experimental, computational, and corpus methodologies to explore fundamental questions about how both children and adults process, acquire, and comprehend language meaningfully.
 
 

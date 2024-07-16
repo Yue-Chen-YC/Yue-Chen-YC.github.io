@@ -26,7 +26,7 @@ title: Publications
 ## Working Manuscript
 - Predictive Modeling of Diagnostic Outcomes for Mandarin-Learning Toddlers With and Without Autism Spectrum Disorder (ASD) <br>
 - Parental input of Chinese reflexive pronoun "ziji" and children's outcome <br>
-- The reflexive pronoun usage in Mandarin-speaking children with autism spectrum disorder compared to typically developing children using corpus data <br>
+- The reflexive pronoun usage in Mandarin-speaking children with Autism Spectrum Disorder (ASD) compared to typically developing children using corpus data <br>
 
 ---
 

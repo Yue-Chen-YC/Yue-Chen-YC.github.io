@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 13th April 2024
+> Lastest Update: 25th July 2024
 
 ## Conference Presentations and Posters (Selected)
 
@@ -12,8 +12,6 @@ title: Publications
 - **Chen, Y.** (2024, May). [Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data.](https://github.com/Yue-Chen-YC/CLDC11_2024) **[Poster]** The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
 - **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. **[Poster]**, 22nd Meeting of the Texas Linguistics Society, Austin, TX.
   
-<br>
-
 ## Journal Paper
 
 - **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (accepted). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal.

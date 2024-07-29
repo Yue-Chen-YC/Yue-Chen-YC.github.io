@@ -12,10 +12,15 @@ I am a Junior Research Assistant under the supervision of [Prof. Maggie Ziyin M
 
 Before coming to CUHK, I completed my Bachelor of Arts degree in Linguistics and Psychology at the University of California, Los Angeles (UCLA), and served as a Research Assistant at [the Language and Cognition Development (LCD) Lab](https://babytalk.psych.ucla.edu/), [Language Processing Lab](https://processing.linguistics.ucla.edu/) and the [UCLA Language Acquisition Lab](https://languagelab.humanities.ucla.edu/en/). 
 
+My primary interests lie in language acquisition, language processing, and theoretical semantics. I utilize experimental, computational, and corpus methodologies to explore fundamental questions about how both children and adults process, acquire, and comprehend language meaningfully.
+
 ## Academic Background
 
-- 2024 - Present：**University of Southern California** (Incoming Ph.D. student in Linguistics)
-- 2023: **The University of California, Los Angeles (UCLA)**
+- **University of Southern California**
+  - PhD in Linguistics, 2024 - Present
+- **The University of California, Los Angeles (UCLA)**
+  - BA in Linguistics and Psychology, 2023
+  - Minor in Comparative Literature, 2023
 
 ---
 
@@ -25,7 +30,3 @@ Before coming to CUHK, I completed my Bachelor of Arts degree in Linguistics and
 - Language Processing
 - Heritage Language
 - Semantics
-
-My primary interests lie in language acquisition, language processing, and theoretical semantics. I utilize experimental, computational, and corpus methodologies to explore fundamental questions about how both children and adults process, acquire, and comprehend language meaningfully.
-
-

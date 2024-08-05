@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yue Chen (陈玥 [ʈʂʰən35 ɥœ51])**.
 
-I am a first-year PhD student in Linguistics at the University of Southern California (USC). Before joining USC, I completed my Bachelor of Arts degree in Linguistics and Psychology at the University of California, Los Angeles (UCLA), and served as a Research Assistant at [the Language and Cognition Development (LCD) Lab](https://babytalk.psych.ucla.edu/), [Language Processing Lab](https://processing.linguistics.ucla.edu/) and the [UCLA Language Acquisition Lab](https://languagelab.humanities.ucla.edu/en/). Following my graduation, I held a position as a Junior Research Assistant under the supervision of [Prof. Maggie Ziyin Mai](https://maiziyin.com/) at the Chinese University of Hong Kong (CUHK) after my graduation.
+I am a first-year PhD student in Linguistics at the University of Southern California (USC). Before joining USC, I completed my Bachelor of Arts degree in Linguistics and Psychology at the University of California, Los Angeles (UCLA), and served as a Research Assistant at [the Language and Cognition Development (LCD) Lab](https://babytalk.psych.ucla.edu/), [Language Processing Lab](https://processing.linguistics.ucla.edu/) and the [UCLA Language Acquisition Lab](https://languagelab.humanities.ucla.edu/en/). Following my graduation, I held a position as a Junior Research Assistant under the supervision of [Prof. Maggie Ziyin Mai](https://maiziyin.com/) at the Chinese University of Hong Kong (CUHK).
 
 ## Academic Background
 

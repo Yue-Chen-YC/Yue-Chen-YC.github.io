@@ -39,7 +39,7 @@ links:
     url: /awards/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Hongkong
+timezone: US
 future: true
 highlighter: rouge
 # markdown: kramdown

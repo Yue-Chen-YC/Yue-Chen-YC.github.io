@@ -8,9 +8,9 @@ title: Publications
 
 ## Conference Presentations and Posters
 
-- **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [Poster](https://github.com/Yue-Chen-YC/CLS_2024) Child Language Symposium 2024, Newcastle, UK. 
-- **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [Poster](https://github.com/Yue-Chen-YC/CLDC11_2024) The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
-- **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. [Poster], 22nd Meeting of the Texas Linguistics Society, Austin, TX.
+- **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [**[Poster]**](https://github.com/Yue-Chen-YC/CLS_2024) Child Language Symposium 2024, Newcastle, UK. 
+- **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [**[Poster]**](https://github.com/Yue-Chen-YC/CLDC11_2024) The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
+- **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. [**Poster**], 22nd Meeting of the Texas Linguistics Society, Austin, TX.
   
 ## Journal Articles
 
@@ -22,8 +22,8 @@ title: Publications
 
 ## Manuscripts
 - Predictive Modeling of Diagnostic Outcomes for Mandarin-Learning Toddlers With and Without Autism Spectrum Disorder (ASD) <br>
-- Parental input of Chinese reflexive pronoun "ziji" and children's outcome <br>
-- The reflexive pronoun usage in Mandarin-speaking children with Autism Spectrum Disorder (ASD) compared to typically developing children using corpus data <br>
+- Parental Input of Chinese Reflexive Pronoun "ziji" and Children's Outcome <br>
+- The Reflexive Pronoun Usage in Mandarin-speaking Children with Autism Spectrum Disorder (ASD) Compared to Typically Developing (TD) Children using Corpus Data <br>
 
 ---
 

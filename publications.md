@@ -6,7 +6,7 @@ title: Publications
 
 > Lastest Update: 25th July 2024
 
-## Conference Presentations and Posters (Selected)
+## Conference Presentations and Posters
 
 - **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [Poster](https://github.com/Yue-Chen-YC/CLS_2024) Child Language Symposium 2024, Newcastle, UK. 
 - **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [Poster](https://github.com/Yue-Chen-YC/CLDC11_2024) The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 

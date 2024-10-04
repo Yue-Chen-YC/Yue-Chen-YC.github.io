@@ -14,8 +14,8 @@ title: Publications
   
 ## Journal Articles
 
-- Mai, Z., Wong, P.C.M., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (under review). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. [Pre Print](https://doi.org/10.31219/osf.io/dyv7e)
-- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (accepted). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal.
+- Mai, Z., Wong, P.C.M., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (Under Review). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. [Pre Print](https://doi.org/10.31219/osf.io/dyv7e)
+- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (Accepted). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal.
   <br>
 
 ---

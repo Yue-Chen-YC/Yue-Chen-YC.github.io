@@ -9,7 +9,7 @@ title: Publications
 ## Conference Presentations and Posters
 
 - **Chen, Y.**, Mai, Z., Chen, Y., (2024, November). Employing Machine Learning and Language Models to Differentiate Language Patterns in Mandarin-Speaking Preschoolers with Autism Spectrum Disorder. **[Poster]** California Meeting on Psycholinguistics 7 (CAMP7), San Diego, CA.
-- **Chen, Y.**, Su, Y., (2024, November). Exploring Reflexive Pronoun Development and Usage in Mandarin-Learning Toddlers: A Comparative Study of ASD and TD Groups. [**[Poster]**](https://github.com/Yue-Chen-YC/CAMP7) California Meeting on Psycholinguistics 7 (CAMP7), San Diego, CA. 
+- **Chen, Y.**, Su, Y., (2024, November). Exploring Reflexive Pronoun Development and Usage in Mandarin-Learning Toddlers: A Comparative Study of ASD and TD Groups. [**[Poster]**](https://github.com/Yue-Chen-YC/CAMP7](https://github.com/Yue-Chen-YC/CAMP7_Exploring-Reflexive-Pronoun-Development-and-Usage-in-Mandarin-Learning-Toddlers)) California Meeting on Psycholinguistics 7 (CAMP7), San Diego, CA. 
 - **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [**[Poster]**](https://github.com/Yue-Chen-YC/CLS_2024) Child Language Symposium 2024, Newcastle, UK. 
 - **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [**[Poster]**](https://github.com/Yue-Chen-YC/CLDC11_2024) The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
 - **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. [**Poster**], 22nd Meeting of the Texas Linguistics Society, Austin, TX.

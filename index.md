@@ -4,7 +4,7 @@ layout: page
 
 # About me
 
-<img src="images/yuechen.jpg" class="floatpic" width="360" height="480">
+<img src="images/yuechen.jpg" class="floatpic" width="500" height="400">
 
 Hi, I'm Yue Chen (陈玥 [ʈʂʰən35 ɥœ51]). I am a PhD student in Linguistics at the University of Southern California (USC). I am affiliated with the [Psycholinguistics of Mono- and Multilingualism Lab (PoMMLab)](https://www.zuzannazfuchs.com/pommlab.html) at USC led by Prof. [Zuzanna Fuchs](https://www.zuzannazfuchs.com/).
 

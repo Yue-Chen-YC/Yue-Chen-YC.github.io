@@ -19,7 +19,10 @@ Before joining USC, I completed my Bachelor of Arts degree in Linguistics and Ps
   - Minor in Comparative Literature, 2023
 
 ---
-
+## Summer School
+- **/L+/ International Summer / Winter School on Language Acquisition**
+  - University of Potsdam, Online, 2023
+---
 ## Research Interests
 
 - Language Acquisition

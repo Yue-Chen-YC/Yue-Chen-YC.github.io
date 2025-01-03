@@ -28,7 +28,7 @@ title: Publications
 
 ---
 
-## Undergrad Thesis
+## Undergrad Thesis (UCLA)
 
 - Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation <br> (Advisor: [**Catherine M. Sandhofer**](https://www.psych.ucla.edu/faculty-page/csandhof/)).
 - Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data 

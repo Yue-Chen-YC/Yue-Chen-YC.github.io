@@ -11,7 +11,10 @@ title: Service
 - 2023：**Invited Presenter, Bruin Day for Admitted Transfers, UCLA** <br>A presentation about my current honors thesis, discuss my previous research journey as an undergraduate with a Q&A session on how to conduct research and find resources as an undergraduate student at the University of California, Los Angeles
 
 ## Academic Service
-- **Reviewer**: California Meeting on Psycholinguistics, 27th Proceedings of the Southern Association for Information Systems Conference
+- **Reviewer**:
+  -  California Meeting on Psycholinguistics
+  -  27th Proceedings of the Southern Association for Information Systems Conference
+  -  CogSci 2025
 
 ## Volunteer
 - 2022 - 2023: UCLA Undergraduate Research Peer Mentor

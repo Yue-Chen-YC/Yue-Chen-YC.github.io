@@ -16,6 +16,7 @@ title: Service
   -  27th Proceedings of the Southern Association for Information Systems Conference
   -  CogSci 2025
   -  AMCIS 2025
+  -  PACIS 2025
 
 ## Volunteer
 - 2022 - 2023: UCLA Undergraduate Research Peer Mentor

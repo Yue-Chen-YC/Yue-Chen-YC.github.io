@@ -4,7 +4,7 @@ permalink: /service/index.html
 title: Service
 ---
 
-> Lastest Update: 18th September 2024 &nbsp;
+> Lastest Update: 19th March 2025 &nbsp;
 
 ## Public and University Events 
 

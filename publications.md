@@ -4,7 +4,14 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 17th October 2024
+> Lastest Update: 19th March 2025
+
+## Journal Articles
+
+- Mai, Z., Wong, P.C.M., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (Under Review). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. [Pre Print](https://doi.org/10.31219/osf.io/dyv7e)
+- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (2024). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal, 11(1), 6-16. <br>
+
+---
 
 ## Conference Presentations and Posters
 - Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., Hong, S., Oguz, M., **Chen, Y.**, Pan, C., Subramony, J., (2025, June). Predicting facilitative processing of gender in Heritage Spanish using measures of lexical proficiency. 16th Heritage Language Research Institute (HLRI), Madison, WI.
@@ -13,11 +20,6 @@ title: Publications
 - **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. [**[Poster]**](https://github.com/Yue-Chen-YC/CLS_2024) Child Language Symposium 2024, Newcastle, UK. 
 - **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. [**[Poster]**](https://github.com/Yue-Chen-YC/CLDC11_2024) The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
 - **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. [**Poster**], 22nd Meeting of the Texas Linguistics Society, Austin, TX.
-  
-## Journal Articles
-
-- Mai, Z., Wong, P.C.M., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (Under Review). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. [Pre Print](https://doi.org/10.31219/osf.io/dyv7e)
-- **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (2024). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal, 11(1), 6-16. <br>
 
 ---
 

@@ -17,6 +17,9 @@ title: Service
   -  CogSci 2025
   -  AMCIS 2025
   -  PACIS 2025
+ 
+## Conference Organization
+- 2025: The Workshop on Theoretical East Asian Linguistics 14（TEAL-14）
 
 ## Volunteer
 - 2022 - 2023: UCLA Undergraduate Research Peer Mentor

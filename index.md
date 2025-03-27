@@ -34,3 +34,9 @@ My primary interests lie in language acquisition, language processing, and theor
 - Heritage Language
 - Semantics
 
+---
+## Skills
+
+- **Programming**: C/C++, Python (NumPy, PyTorch, Transformers), MATLAB, R
+- **Software and Tools**: LaTeX, CLAN, ELAN, Praat, PCIbex, SPSS, Qualtrics, SynthWorks, Rezonator
+- **Languages**: Wu Chinese (native), English and Mandarin Chinese (fluent), Spanish and Cantonese (basic)

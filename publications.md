@@ -7,10 +7,14 @@ title: Publications
 > Lastest Update: 19th March 2025
 
 ## Journal Articles
-
-- Zuzanna Fuchs, Emma Kealey, Esra Eldem-Tunç, Leo Mermelstein, Linh Pham, Anna Runova, **Yue Chen**, Metehan Oğuz, Seoyoon Hong, Catherine Pan, JK Subramony. Submitted. Measuring adult heritage language lexical proficiency for studies on facilitative processing of gender. In O. Ivanova & Ó. Loureda (Eds.), Language Processing in Spanish Heritage Speakers [Special issue]. Languages.
+-	Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., **Chen, Y.,** Oguz, M., Hong, S., Pan, C., Subramony, J., (under review). Predicting facilitative processing of gender in Heritage Spanish using measures of lexical proficiency. In O. Ivanova & Ó. Loureda (Eds.), Language Processing in Spanish Heritage Speakers [Special issue]. Languages. 
 - Mai, Z., Wong, P.C.M., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (Under Review). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. [Pre Print](https://doi.org/10.31219/osf.io/dyv7e)
 - **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (2024). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal, 11(1), 6-16. <br>
+
+---
+
+## Conference Proceedings
+- **Chen, Y.,** Mai, Z., Shang, M., (forthcoming). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).
 
 ---
 

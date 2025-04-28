@@ -12,7 +12,7 @@ title: Service
 
 ## Academic Service
 - **Reviewer**:
-  -  California Meeting on Psycholinguistics
+  -  California Meeting on Psycholinguistics (CAMP7)
   -  27th Proceedings of the Southern Association for Information Systems Conference
   -  CogSci 2025
   -  AMCIS 2025

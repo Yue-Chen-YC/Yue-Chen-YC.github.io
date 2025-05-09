@@ -6,7 +6,7 @@ layout: page
 
 <img src="images/yuechen.jpg" class="floatpic" alt="Profile Picture">
 
-Hi, I'm Yue Chen (陈玥 [ʈʂʰən35 ɥœ51]). I am a PhD student in Linguistics at the University of Southern California (USC). I am affiliated with the [Psycholinguistics of Mono- and Multilingualism Lab (PoMMLab)](https://www.zuzannazfuchs.com/pommlab.html) at USC led by Prof. [Zuzanna Fuchs](https://www.zuzannazfuchs.com/).
+Hi, I'm Yue Chen (陈玥 [ʈʂʰən35 ɥœ51]). I am a PhD student in Linguistics at the University of Southern California (USC) advised by [Elsi Kaiser](https://elsikaiser.com/). I am affiliated with the [Psycholinguistics of Mono- and Multilingualism Lab (PoMMLab)](https://www.zuzannazfuchs.com/pommlab.html) at USC led by Prof. [Zuzanna Fuchs](https://www.zuzannazfuchs.com/).
 
 Before joining USC, I completed my Bachelor of Arts degree in Linguistics and Psychology at the University of California, Los Angeles (UCLA), and served as a Research Assistant at [the Language and Cognition Development (LCD) Lab](https://babytalk.psych.ucla.edu/), [Language Processing Lab](https://processing.linguistics.ucla.edu/) and the [UCLA Language Acquisition Lab](https://languagelab.humanities.ucla.edu/en/). Following my graduation, I held a position as a Junior Research Assistant under the supervision of Prof. [Maggie Ziyin Mai](https://maiziyin.com/) at the Chinese University of Hong Kong (CUHK).
 

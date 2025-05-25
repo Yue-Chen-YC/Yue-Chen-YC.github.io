@@ -25,7 +25,9 @@ My primary interests lie in language acquisition, language processing, and theor
 
 - **/L+/ International Summer / Winter School on Language Acquisition**
   - University of Potsdam, Online, 2023
-  
+- **The North American Summer School for Logic, Language and Information (NASSLLI '25)**
+  - University of Washington, Seattle, Online, 2025
+
 ---
 ## Research Interests
 

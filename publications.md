@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Articles
 -	Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., **Chen, Y.,** Oguz, M., Hong, S., Pan, C., Subramony, J., (Under Review). Predicting facilitative processing of gender in Heritage Spanish using measures of lexical proficiency. In O. Ivanova & Ó. Loureda (Eds.), Language Processing in Spanish Heritage Speakers [Special issue]. Languages. 
-- Mai, Z., Wong, P.C.M., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (Accepted). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. [Pre Print](https://doi.org/10.31219/osf.io/dyv7e)
+- Mai, Z., Wong, P. C., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (2025). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. PloS one, 20(6), e0326671.
 - **Chen, Y.**, Neer, E., Zhang, E., Sandhofer, C.M., (2024). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. UCLA Undergraduate Psychology Journal, 11(1), 6-16. <br>
 
 ---

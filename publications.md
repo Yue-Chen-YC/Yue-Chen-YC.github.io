@@ -30,6 +30,5 @@ title: Publications
 ---
 
 ## Manuscripts
-- Predictive Modeling of Diagnostic Outcomes for Mandarin-Learning Toddlers With and Without Autism Spectrum Disorder (ASD) <br>
 - Parental Input of the Chinese Bare Reflexive Pronoun 'ziji' and Its Impact on Children's Reflexive Understanding: An Analysis of Prosodic Bootstrapping in Language Acquisition <br>
 - Exploring the Role of Child and Parental Disfluencies in Early Vocabulary Development: A Corpus-Based Analysis <br>

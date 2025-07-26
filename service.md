@@ -10,8 +10,8 @@ title: Service
 - 2025–Present: **Colloquium Coordinator**, Graduate Students in Linguistics (GSiL), University of Southern California (USC)
 
 ## Reviewer
-  -  California Meeting on Psycholinguistics (CAMP7)
-  -  27th Proceedings of the Southern Association for Information Systems Conference
+  -  CAMP7
+  -  SAIS 2025
   -  CogSci 2025
   -  AMCIS 2025
   -  PACIS 2025

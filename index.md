@@ -12,6 +12,8 @@ Before joining USC, I completed my Bachelor of Arts degree in Linguistics and Ps
 
 My primary interests lie in language acquisition, language processing, and theoretical semantics. I utilize experimental, computational, and corpus methodologies to explore fundamental questions about how both children and adults process, acquire, and comprehend language meaningfully.
 
+---
+
 ## Academic Background
 
 - **University of Southern California**

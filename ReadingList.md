@@ -4,8 +4,12 @@ permalink: /ReadingList/index.html
 title: Between the Lines
 ---
 
-> **Latest Update:** 24th May 2025 &nbsp;  
-> **Between the Lines:** This is a chaotic, evolving, and occasionally questionable reading list.  
+> **Latest Update:** 24th May 2025 &nbsp;
+
+> **Between the Lines:** This is a chaotic, evolving, and occasionally questionable reading list.
+
+> **Books I like:** I love the beauty of paradox, the allure of contradictions, and the meanings hidden beneath words and metaphors.
+
 > **Book recommendations?** --> [Email me!](mailto:ychen249@usc.edu)  
 
 ---

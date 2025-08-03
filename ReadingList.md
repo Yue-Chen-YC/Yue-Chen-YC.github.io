@@ -35,6 +35,12 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 
 ---
 
+## Recent Finished
+Here’s a list of books I’ve recently finished—some stayed with me longer than others, but all left their mark.
+- **Brave New World** — *Aldous Huxley*  
+
+---
+
 ## Favorite Lines
 Sometimes a single line can say it all, so read between the lines.
 

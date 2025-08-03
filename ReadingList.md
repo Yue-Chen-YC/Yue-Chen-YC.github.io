@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ReadingList/index.html
-title: Between the Lines
+title: Between the Lines 📚
 ---
 
 > **Latest Update:** 24th July 2025<br>

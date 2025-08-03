@@ -32,22 +32,22 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 ---
 
 ## Favorite Lines
-Sometimes a single line can say it all.
+Sometimes a single line can say it all, so read between the lines.
 
 <div id="random-line" style="font-style: italic; margin-top: 10px;"></div>
 <div id="line-author" style="margin-top: 5px; color: gray;"></div>
-
+<!-- JavaScript -->
 <script>
   // Array of your favorite lines and their authors
   const favoriteLines = [
-    { text: "We read to know we are not alone.", author: "C.S. Lewis" },
-    { text: "The world breaks everyone and afterward many are strong at the broken places.", author: "Ernest Hemingway" },
-    { text: "I am a part of all that I have met.", author: "Tennyson" },
-    { text: "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.", author: "Rainer Maria Rilke" },
-    { text: "And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom.", author: "Anaïs Nin" },
-    { text: "Somewhere, something incredible is waiting to be known.", author: "Carl Sagan" },
+    { text: "Therefore，a stillness monument stands on the shore." },
+    { text: "转瞬即逝又弥足珍贵的precious moments." },
+    { text: "语言可以治愈，连接可以存在，光，可以从最黑的地方长出来。" },
+    { text: "它无尽的甜蜜，澄澈的胆怯，精巧的入迷。" },
+    { text: "伤疤是独自穿越风暴的勋章。" },
+    { text: "She could be herself, by herself. And that was what now she often felt the need of - to think; well not even to think. To be silent; to be alone." },
     { text: "I contain multitudes.", author: "Walt Whitman" },
-    // Add your own poems or lines here
+    { text: "So that is marriage, Lily thought, a man and a woman looking at a girl throwing a ball", author: "Virginia Woolf" }
   ];
 
   // Select a random line
@@ -55,10 +55,7 @@ Sometimes a single line can say it all.
 
   // Display the line and author in the HTML
   document.getElementById("random-line").innerText = `"${randomLine.text}"`;
-  document.getElementById("line-author").innerText = `— ${randomLine.author}`;
+  document.getElementById("line-author").innerText = randomLine.author ? `— ${randomLine.author}` : "";
 </script>
-
----
----
 
 

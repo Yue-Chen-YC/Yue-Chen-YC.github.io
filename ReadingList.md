@@ -4,9 +4,12 @@ permalink: /ReadingList/index.html
 title: Between the Lines
 ---
 
-> **Latest Update:** 24th May 2025 &nbsp;
+> **Latest Update:** 24th July 2025 &nbsp;
+
 > **Between the Lines:** This is a chaotic, evolving, and occasionally questionable reading list.
+
 > **Books I like:** I love the beauty of paradox, the allure of contradictions, and the meanings hidden beneath words and metaphors.
+
 > **Book recommendations?** --> [Email me!](mailto:ychen249@usc.edu)  
 
 ---
@@ -35,6 +38,7 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 - **Mrs. Dallowa** - *Virginia Woolf*
 - **We** - *Yevgeny Zamyatin*
 - **The Awakening and Selected Stories** - *Kate Chopin*
+- **Under the Net** - *Iris Murdoch*
 
 ---
 
@@ -42,6 +46,9 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 Here’s a list of books I’ve recently finished—some stayed with me longer than others, but all left their mark.
 - **Brave New World** — *Aldous Huxley*  
 - **Neapolitan Quartet** - *Elena Ferrante*
+- **The Diving Bell and the Butterfly: A Memoir of Life in Death** - *Jean-Dominique Bauby*
+- **Discipline and Punish: The Birth of the Prison** - *Michel Foucault*
+- **1984** - *George Orwell*
 
 ---
 

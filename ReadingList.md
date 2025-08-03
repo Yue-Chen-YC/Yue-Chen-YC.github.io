@@ -11,7 +11,7 @@ title: Between the Lines
 
 ---
 
-## Read between the lines
+## Beneath the surface
 <div id="random-line" style="font-style: italic; margin-top: 10px;"></div>
 <div id="line-author" style="margin-top: 5px; color: gray;"></div>
 <!-- JavaScript -->

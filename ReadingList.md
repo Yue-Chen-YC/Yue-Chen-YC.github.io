@@ -14,13 +14,13 @@ title: Between the Lines
 ## Books I Keep Coming Back To
 Here’s a list of books that never seem to leave my mind (or my nightstand). I re-read them in both Mandarin and English—these are the ones I revisit, quote endlessly, and always find something new in.
 
-1. **To the Lighthouse** — *Virginia Woolf*  
+- **To the Lighthouse** — *Virginia Woolf*  
 
-2. **The Waves** — *Virginia Woolf*  
+- **The Waves** — *Virginia Woolf*  
 
-3. **Lolita** — *Vladimir Nabokov*  
+- **Lolita** — *Vladimir Nabokov*  
 
-4. **Fang Si-Chi's First Love Paradise: A Novel** — *Lin Yi-han*  
+- **Fang Si-Chi's First Love Paradise: A Novel** — *Lin Yi-han*  
 
 ---
 
@@ -46,12 +46,14 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **The Diving Bell and the Butterfly: A Memoir of Life in Death** - *Jean-Dominique Bauby*
 - **Discipline and Punish: The Birth of the Prison** - *Michel Foucault*
 - **1984** - *George Orwell*
+- **Raise the Red Lantern** - *Su Tong*
+- **Rouge** - *Lilian Lee*
+- **A Thousand Splendid Suns** - *Khaled Hosseini*
+
 
 ---
 
-## Favorite Lines
-Sometimes a single line can say it all, so read between the lines.
-
+## Read between the lines
 <div id="random-line" style="font-style: italic; margin-top: 10px;"></div>
 <div id="line-author" style="margin-top: 5px; color: gray;"></div>
 <!-- JavaScript -->

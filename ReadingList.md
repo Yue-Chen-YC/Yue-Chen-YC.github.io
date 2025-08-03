@@ -58,14 +58,19 @@ Sometimes a single line can say it all, so read between the lines.
 <script>
   // Array of your favorite lines and their authors
   const favoriteLines = [
-    { text: "Therefore，a stillness monument stands on the shore." },
-    { text: "转瞬即逝又弥足珍贵的precious moments." },
+    { text: "Therefore, a stillness monument stands on the shore." },
+    { text: "转瞬即逝又弥足珍贵的 - precious moments." },
     { text: "语言可以治愈，连接可以存在，光，可以从最黑的地方长出来。" },
-    { text: "它无尽的甜蜜，澄澈的胆怯，精巧的入迷。" },
+    { text: "它无尽的甜蜜，澄澈的胆怯，精巧的入迷。"},
     { text: "伤疤是独自穿越风暴的勋章。" },
     { text: "She could be herself, by herself. And that was what now she often felt the need of - to think; well not even to think. To be silent; to be alone." },
-    { text: "I contain multitudes.", author: "Walt Whitman" },
-    { text: "So that is marriage, Lily thought, a man and a woman looking at a girl throwing a ball", author: "Virginia Woolf" }
+    { text: "I contain multitudes."},
+    { text: "So that is marriage, Lily thought, a man and a woman looking at a girl throwing a ball."},
+    { text: "你拖着我的钢铁心脏走过白银之城。"},
+    { text: "Let me sit here for ever with bare things, this coffee cup, this knife, this fork, things in themselves, myself being myself."},
+    { text: "We are cut, we are fallen. We are become part of that unfeeling universe that sleeps when we are at our quickest and burns red when we lie asleep."},
+    { text: "Up here my eyes are green leaves, unseeing."},
+
   ];
 
   // Select a random line

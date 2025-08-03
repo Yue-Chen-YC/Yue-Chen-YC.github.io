@@ -47,11 +47,8 @@ title: Between the Lines
 Here’s a list of books that never seem to leave my mind (or my nightstand). These are the ones I revisit, quote endlessly, and always find something new in.
 
 - **To the Lighthouse** — *Virginia Woolf*  
-
 - **The Waves** — *Virginia Woolf*  
-
 - **Lolita** — *Vladimir Nabokov*  
-
 - **Fang Si-Chi's First Love Paradise: A Novel** — *Lin Yi-han*  
 
 ---

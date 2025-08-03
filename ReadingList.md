@@ -28,14 +28,20 @@ Here’s a list of books that never seem to leave my mind (or my nightstand). I 
 Here’s where things get messy. These are books I’m reading, want to read, or just like having on my shelf.
 
 - **Pale Fire** — *Vladimir Nabokov*  
-- **Madness and Civilization** — *Michel Foucault*  
+- **Madness and Civilization** — *Michel Foucault*
+- **The Master and Margarita** - *Mikhail Bulgakov*
+- **Crying in H Mart** - *Michelle Zauner*
+- **The Joy Luck Club** - *Amy Tan*
+- **Mrs. Dallowa** - *Virginia Woolf*
+- **We** - *Yevgeny Zamyatin*
+- **The Awakening and Selected Stories** - *Kate Chopin*
 
 ---
 
 ## Recent Finished
 Here’s a list of books I’ve recently finished—some stayed with me longer than others, but all left their mark.
 - **Brave New World** — *Aldous Huxley*  
-
+- **Neapolitan Quartet** - *Elena Ferrante*
 ---
 
 ## Favorite Lines

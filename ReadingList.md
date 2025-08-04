@@ -57,7 +57,8 @@ Here’s a list of books that never seem to leave my mind (or my nightstand). Th
 - **To the Lighthouse** — *Virginia Woolf*  
 - **The Waves** — *Virginia Woolf*  
 - **Lolita** — *Vladimir Nabokov*  
-- **Fang Si-Chi's First Love Paradise: A Novel** — *Lin Yi-han*  
+- **Fang Si-Chi's First Love Paradise: A Novel** — *Lin Yi-han*
+- **Neapolitan Quartet** - *Elena Ferrante*
 
 ---
 
@@ -79,7 +80,6 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 ## Recent Finished
 Here’s a list of books I’ve recently finished—some stayed with me longer than others, but all left their mark.
 - **Brave New World** — *Aldous Huxley*  
-- **Neapolitan Quartet** - *Elena Ferrante*
 - **The Diving Bell and the Butterfly: A Memoir of Life in Death** - *Jean-Dominique Bauby*
 - **Discipline and Punish: The Birth of the Prison** - *Michel Foucault*
 - **1984** - *George Orwell*

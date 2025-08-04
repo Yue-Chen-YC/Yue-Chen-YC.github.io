@@ -30,7 +30,15 @@ title: Between the Lines 📚
     { text: "Let me sit here for ever with bare things, this coffee cup, this knife, this fork, things in themselves, myself being myself."},
     { text: "We are cut, we are fallen. We are become part of that unfeeling universe that sleeps when we are at our quickest and burns red when we lie asleep."},
     { text: "Up here my eyes are green leaves, unseeing."},
-
+    { text: "I have had my vision."},
+    { text: "Was there no safety? No learning by heart of the ways of the world? No guide, no shelter, but all was miracle, and leaping from the pinnacle of a tower into the air? Could it be, even for elderly people, that this was life?--startling, unexpected, unknown?"},
+    { text: "The brain is always thinking, but who is it who is thinking?"},
+    { text: "There was no treachery too base for the world to commit."},
+    { text: "The house was left; the house was deserted. It was left like a shell on a sandhill to fill with dry salt grains now that life had left it."},
+    { text: "I need you, the reader, to imagine us, for we don't really exist if you don't."},
+    { text: "Words without experience are meaningless."},
+    { text: "We are most artistically caged."},
+    { text: "The sun is a thief: she lures the sea and robs it. The moon is a thief: he steals his silvery light from the sun. The sea is a thief: it dissolves the moon."},
   ];
 
   // Select a random line

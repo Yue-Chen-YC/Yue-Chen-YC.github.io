@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 31th July 2025
+> Lastest Update: 4th Aug 2025
 
 ## Journal Articles
 - Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., **Chen, Y.,** Oguz, M., Hong, S., Pan, C., Subramony, J., (2025). Predicting facilitative processing of gender in Heritage Spanish using measures of lexical proficiency. In O. Ivanova & Ó. Loureda (Eds.), Language Processing in Spanish Heritage Speakers [Special issue]. Languages, 10(8), 189. https://doi.org/10.3390/languages10080189

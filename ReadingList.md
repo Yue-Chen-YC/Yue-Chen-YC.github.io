@@ -74,6 +74,11 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 - **We** - *Yevgeny Zamyatin*
 - **The Awakening and Selected Stories** - *Kate Chopin*
 - **Under the Net** - *Iris Murdoch*
+- **The Metamorphosis** - *Franz Kafka*
+- **The Castle** - *Franz Kafka*
+- **Siddhartha** - *Hermann Hesse*
+- **In Search of Lost Time** - *Marcel Proust*
+- **One Hundred Years of Solitude** - *Gabriel García Márquez*
 
 ---
 
@@ -90,6 +95,11 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **A Room of One's Own** - *Virginia Woolf*
 - **Disgrace** - *J. M. Coetzee*
 - **Foe** - *J. M. Coetzee*
+- **Life and Death Are Wearing Me Out** - *Mo Yan*
+- **Big Breasts and Wide Hips** - *Mo Yan*
+- **Educated** - *Tara Westover*
+
+
 
 
 

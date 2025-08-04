@@ -86,6 +86,13 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **Raise the Red Lantern** - *Su Tong*
 - **Rouge** - *Lilian Lee*
 - **A Thousand Splendid Suns** - *Khaled Hosseini*
+- **One Flew Over the Cuckoo's Nest** - *Ken Kesey*
+- **A Room of One's Own** - *Virginia Woolf*
+- **Disgrace** - *J. M. Coetzee*
+- **Foe** - *J. M. Coetzee*
+
+
+
 
 
 

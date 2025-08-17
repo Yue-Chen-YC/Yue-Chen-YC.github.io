@@ -39,6 +39,11 @@ title: Between the Lines 📚
     { text: "Words without experience are meaningless."},
     { text: "We are most artistically caged."},
     { text: "The sun is a thief: she lures the sea and robs it. The moon is a thief: he steals his silvery light from the sun. The sea is a thief: it dissolves the moon."},
+    { text: "It might be possible that the world itself is without meaning."},
+        { text: "Moments like this are buds on the tree of life. Flowers of darkness they are."},
+        { text: "Fear no more, says the heart, committing its burden to some sea, which sighs collectively for all sorrows, and renews, begins, collects, lets fall."},
+        { text: "Still, life had a way of adding day to day."},
+        { text: "Nothing exists outside of us except a state of mind..."},
   ];
 
   // Select a random line
@@ -70,7 +75,7 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 - **The Master and Margarita** - *Mikhail Bulgakov*
 - **Crying in H Mart** - *Michelle Zauner*
 - **The Joy Luck Club** - *Amy Tan*
-- **Mrs. Dallowa** - *Virginia Woolf*
+- **Mrs. Dalloway** - *Virginia Woolf*
 - **We** - *Yevgeny Zamyatin*
 - **The Awakening and Selected Stories** - *Kate Chopin*
 - **Under the Net** - *Iris Murdoch*

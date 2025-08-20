@@ -82,6 +82,7 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 - **The Metamorphosis** - *Franz Kafka*
 - **The Castle** - *Franz Kafka*
 - **Siddhartha** - *Hermann Hesse*
+- **Narcissus and Goldmund** - *Hermann Hesse*
 - **In Search of Lost Time** - *Marcel Proust*
 - **One Hundred Years of Solitude** - *Gabriel García Márquez*
 

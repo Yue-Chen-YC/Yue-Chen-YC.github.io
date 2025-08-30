@@ -22,7 +22,7 @@ title: Publications
 - **Chen, Y.**, Su, Y., (2024, November). Exploring Reflexive Pronoun Development and Usage in Mandarin-Learning Toddlers: A Comparative Study of ASD and TD Groups. **[Poster]** California Meeting on Psycholinguistics 7 (CAMP7), San Diego, CA. 
 - **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. **[Poster]** Child Language Symposium 2024, Newcastle, UK. 
 - **Chen, Y.** (2024, May). Unveiling the Parallel Function Hypothesis on Personal Pronouns: A Corpus Analysis Utilizing Eye-Tracking Data. **[Poster]** The 11th Conference on Language, Discourse, and Cognition, Taipei, Taiwan. 
-- **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. **[**Poster**]**, 22nd Meeting of the Texas Linguistics Society, Austin, TX.
+- **Chen, Y.** (2023, February). Acquisition of English Reflexive Pronouns: Evidence from Naturalistic Observation. **[Poster]**, 22nd Meeting of the Texas Linguistics Society, Austin, TX.
 
 ---
 

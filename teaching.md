@@ -10,4 +10,4 @@ title: Teaching
 - **Fall 2025**:
   - University of Southern California
   - Ling 115: Language and Society
-  - Professors: Andrew Simpson (Fall 2025)
+  - Professors: Andrew Simpson

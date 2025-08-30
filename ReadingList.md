@@ -104,6 +104,7 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **Life and Death Are Wearing Me Out** - *Mo Yan*
 - **Big Breasts and Wide Hips** - *Mo Yan*
 - **Educated** - *Tara Westover*
+- **Taipei People** - *Pai Hsien-yung*
 
 
 

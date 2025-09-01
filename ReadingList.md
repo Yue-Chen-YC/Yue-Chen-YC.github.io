@@ -68,6 +68,7 @@ Here’s a list of books that never seem to leave my mind (or my nightstand). Th
 - **Lolita** — *Vladimir Nabokov*  
 - **Fang Si-Chi's First Love Paradise: A Novel** — *Lin Yi-han*
 - **Neapolitan Quartet** - *Elena Ferrante*
+- **Taipei People** - *Pai Hsien-yung*
 
 ---
 
@@ -109,7 +110,6 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **Life and Death Are Wearing Me Out** - *Mo Yan*
 - **Big Breasts and Wide Hips** - *Mo Yan*
 - **Educated** - *Tara Westover*
-- **Taipei People** - *Pai Hsien-yung*
 - **Life of Pi** - *Yann Martel*
 - **Gone with the Wind** - *Margaret Mitchell*
 - **Never Let Me Go** - *Kazuo Ishiguro*

@@ -9,4 +9,4 @@ title: Teaching
 ## TAships at University of Southern California
 - **Fall 2025**:
   - Ling 115: Language and Society
-  - Professors: Andrew Simpson
+  - Professor: Andrew Simpson

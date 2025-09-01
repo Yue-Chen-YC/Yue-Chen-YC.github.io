@@ -4,7 +4,7 @@ permalink: /ReadingList/index.html
 title: Between the Lines 📚
 ---
 
-> **Latest Update:** 24th July 2025<br>
+> **Latest Update:** 31th Aug 2025<br>
 > **Between the Lines:** This is a chaotic, evolving, and occasionally questionable reading list.<br>
 > **Books I like:** I love the beauty of paradox, the allure of contradictions, and the meanings hidden beneath words and metaphors.<br>
 > **Book recommendations?** --> [Email me!](mailto:ychen249@usc.edu)
@@ -31,6 +31,7 @@ title: Between the Lines 📚
     { text: "We are cut, we are fallen. We are become part of that unfeeling universe that sleeps when we are at our quickest and burns red when we lie asleep."},
     { text: "Up here my eyes are green leaves, unseeing."},
     { text: "I have had my vision."},
+    { text: "Books, she thought, grew of themselves."},
     { text: "Was there no safety? No learning by heart of the ways of the world? No guide, no shelter, but all was miracle, and leaping from the pinnacle of a tower into the air? Could it be, even for elderly people, that this was life?--startling, unexpected, unknown?"},
     { text: "The brain is always thinking, but who is it who is thinking?"},
     { text: "There was no treachery too base for the world to commit."},
@@ -40,10 +41,13 @@ title: Between the Lines 📚
     { text: "We are most artistically caged."},
     { text: "The sun is a thief: she lures the sea and robs it. The moon is a thief: he steals his silvery light from the sun. The sea is a thief: it dissolves the moon."},
     { text: "It might be possible that the world itself is without meaning."},
-        { text: "Moments like this are buds on the tree of life. Flowers of darkness they are."},
-        { text: "Fear no more, says the heart, committing its burden to some sea, which sighs collectively for all sorrows, and renews, begins, collects, lets fall."},
-        { text: "Still, life had a way of adding day to day."},
-        { text: "Nothing exists outside of us except a state of mind..."},
+    { text: "Moments like this are buds on the tree of life. Flowers of darkness they are."},
+    { text: "Fear no more, says the heart, committing its burden to some sea, which sighs collectively for all sorrows, and renews, begins, collects, lets fall."},
+    { text: "Still, life had a way of adding day to day."},
+    { text: "Nothing exists outside of us except a state of mind..."},
+    { text: "高雄，台北是峰，台中是谷，而思琪坠落下去了。她灵魂的双胞胎。"},
+    { text: "So many books, so little time."},
+    { text: "All you need is love. But a little chocolate now and then doesn't hurt."},
   ];
 
   // Select a random line
@@ -85,6 +89,7 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 - **Narcissus and Goldmund** - *Hermann Hesse*
 - **In Search of Lost Time** - *Marcel Proust*
 - **One Hundred Years of Solitude** - *Gabriel García Márquez*
+- **Milk and honey** - *Rupi Kaur*
 
 ---
 
@@ -105,6 +110,9 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **Big Breasts and Wide Hips** - *Mo Yan*
 - **Educated** - *Tara Westover*
 - **Taipei People** - *Pai Hsien-yung*
+- **Life of Pi** - *Yann Martel*
+- **Gone with the Wind** - *Margaret Mitchell*
+- **Never Let Me Go** - *Kazuo Ishiguro*
 
 
 

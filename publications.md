@@ -9,9 +9,8 @@ title: Publications
 ## Journal Articles
 - Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., **Chen, Y.,** Oguz, M., Hong, S., Pan, C., Subramony, J., (2025). Measuring Adult Heritage Language Lexical Proficiency for Studies on Facilitative Processing of Gender. In O. Ivanova & Ó. Loureda (Eds.), Language Processing in Spanish Heritage Speakers [Special issue]. Languages, 10(8), 189. https://doi.org/10.3390/languages10080189
 - Mai, Z., Wong, P. C., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (2025). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. PloS one, 20(6), e0326671.
+
 ---
-
-
 ## Conference Presentations and Posters
 - **Chen, Y.** (2025, November). From ‘Um' to Words: The Role of Disfluency Interactions in Shaping Early Language Development. **[Poster]** 50th Annual Boston University Conference on Language Development (BUCLD), Boston, MA.
 - **Chen, Y.**, Mai, Z., Shang, M., (2025, July). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. **[Poster]** CogSci 2025, San Francisco, CA.

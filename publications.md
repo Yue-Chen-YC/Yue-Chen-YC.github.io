@@ -12,7 +12,7 @@ title: Publications
 
 ---
 ## Conference Presentations and Posters
-- **Chen, Y.** (2025, November). From ‘Um' to Words: The Role of Disfluency Interactions in Shaping Early Language Development. **[Poster]** 50th Annual Boston University Conference on Language Development (BUCLD), Boston, MA.
+- **Chen, Y.** (2025, November). From ‘Um' to Words: The Role of Disfluency Interactions in Shaping Early Language Development. **[Poster] (top student submission)** 50th Annual Boston University Conference on Language Development (BUCLD), Boston, MA.
 - **Chen, Y.**, Mai, Z., Shang, M., (2025, July). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. **[Poster]** CogSci 2025, San Francisco, CA.
 - Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., Hong, S., Oguz, M., **Chen, Y.**, Pan, C., Subramony, J., (2025, June). Predicting facilitative processing of gender in Heritage Spanish using measures of lexical proficiency. **[Poster]** 16th Heritage Language Research Institute (HLRI), Madison, WI.
 - **Chen, Y.**, Mai, Z., Chen, Y., (2024, November). Employing Machine Learning and Language Models to Differentiate Language Patterns in Mandarin-Speaking Preschoolers with Autism Spectrum Disorder. **[Poster]** California Meeting on Psycholinguistics 7 (CAMP7), San Diego, CA.

@@ -10,7 +10,7 @@ title: Service
 - 2025–Present: **Colloquium Coordinator** (with Yingyu Su), Graduate Students in Linguistics (GSiL), University of Southern California (USC)
 
 ## Reviewer
-  -  CAMP7
+  -  CAMP7, CAMP8
   -  SAIS 2025
   -  CogSci 2025
   -  AMCIS 2025

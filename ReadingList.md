@@ -48,6 +48,11 @@ title: Between the Lines 📚
     { text: "高雄，台北是峰，台中是谷，而思琪坠落下去了。她灵魂的双胞胎。"},
     { text: "So many books, so little time."},
     { text: "All you need is love. But a little chocolate now and then doesn't hurt."},
+    { text: "In order to understand the world, one has to turn away from it on occasion."},
+    { text: "Seeking what is true is not seeking what is desirable."},
+    { text: "I know simply that the sky will last longer than I."},
+    { text: "Existence is illusory and it is eternal."},
+    { text: "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy."},
   ];
 
   // Select a random line
@@ -91,6 +96,7 @@ Here’s where things get messy. These are books I’m reading, want to read, or
 - **In Search of Lost Time** - *Marcel Proust*
 - **One Hundred Years of Solitude** - *Gabriel García Márquez*
 - **Milk and honey** - *Rupi Kaur*
+- **The Myth of Sisyphus** - *Albert Camus*
 
 ---
 
@@ -113,10 +119,6 @@ Here’s a list of books I’ve recently finished—some stayed with me longer t
 - **Life of Pi** - *Yann Martel*
 - **Gone with the Wind** - *Margaret Mitchell*
 - **Never Let Me Go** - *Kazuo Ishiguro*
-
-
-
-
 
 
 

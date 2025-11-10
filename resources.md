@@ -43,8 +43,6 @@ This PDF walks through installing CLAN on macOS, installing MOR grammars, findin
 ### Syntactic & Morphological Parsing with Batchalign2
 
 **Batchalign2** is a command-line pipeline developed in the TalkBank project for **automatic morphological tagging and Universal Dependencies (UD) syntactic parsing**.  
-It:
-
 - Takes CHAT `.cha` transcripts as input  
 - Produces `%mor` tiers (lemmas, POS tags, morphological features)  
 - Produces `%gra` tiers (UD-style dependency parses)  

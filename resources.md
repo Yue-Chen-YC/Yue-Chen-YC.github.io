@@ -61,7 +61,7 @@ This PDF walks through installing CLAN on macOS, installing MOR grammars, findin
 - Use Batchalign2 in the local terminal to run batchalign morphotag ba_input ba_output.
 - Inspect the %mor and %gra tiers in the output .cha files, and then use CLAN for further analyses (e.g., kwal +t%mor, kwal +t%gra).
 
-[Download Batchalign2 Parsing Tutorial (PDF)]({{ "/files/Syntactic_Parsing_Documentation.pdf" | relative_url }})
+[Download Batchalign2 Parsing Tutorial (PDF)]({{ "/file/Syntactic_Parsing_Documentation.pdf" | relative_url }})
 
 This PDF provides step-by-step instructions for installing Batchalign2 with `uv`, preparing `.cha` files, running `batchalign morphotag` on input/output folders, and interpreting `%mor` and `%gra` tiers, with concrete examples from Italian data and suggestions for CLAN-based post-processing.
 

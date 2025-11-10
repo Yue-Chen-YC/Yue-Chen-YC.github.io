@@ -5,8 +5,12 @@ title: Resources and Tutorials
 ---
 
 > **Latest Update:** 5th Nov 2025<br>
-> **Note:** These tutorials are based on materials I developed for my own projects and/or for training students/research assistants.
-
+> **Note:** These tutorials are based on materials I developed for my own projects and/or for training students/research assistants. <br>
+> **On this page:**
+  - Vocabulary Assessment – PPVT
+  - Transcription & Corpus Analysis – CLAN + Batchalign2
+  - Forced Alignment – Montreal Forced Aligner (MFA)
+  - Psych Verb Corpus (English–Chinese) – in preparation
 ---
 
 ## Vocabulary Assessment – PPVT

@@ -5,6 +5,7 @@ title: Resources and Tutorials
 ---
 
 > **Latest Update:** 5th Nov 2025<br>
+> **Note:** These tutorials are based on materials I developed for my own projects and/or for training students/research assistants.
 
 ---
 

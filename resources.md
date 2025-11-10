@@ -6,15 +6,16 @@ title: Resources and Tutorials
 
 > **Latest Update:** 5th Nov 2025<br>
 > **Note:** These tutorials are based on materials I developed for my own projects and/or for training students/research assistants. <br>
-> **On this page:**
-  - Vocabulary Assessment – PPVT
-  - Transcription & Corpus Analysis – CLAN + Batchalign2
-  - Forced Alignment – Montreal Forced Aligner (MFA)
-  - Psych Verb Corpus (English–Chinese) – in preparation
-    
+
+**On this page:**
+- [Vocabulary Assessment – PPVT](#ppvt)
+- [Transcription & Corpus Analysis – CLAN + Batchalign2](#clan-batchalign2)
+- [Forced Alignment – Montreal Forced Aligner (MFA)](#mfa)
+- [Psych Verb Corpus (English–Chinese) – in preparation](#psych-verb-corpus)
+
 ---
 
-## Vocabulary Assessment – PPVT
+## Vocabulary Assessment – PPVT {#ppvt}
 
 ### What is the PPVT?
 
@@ -28,7 +29,7 @@ This PDF provides a brief introduction to the Peabody Picture Vocabulary Test (P
 
 ---
 
-## Transcription & Corpus Analysis – CLAN
+## Transcription & Corpus Analysis – CLAN {#clan-batchalign2}
 
 ### What is CLAN?
 
@@ -66,7 +67,7 @@ This PDF provides step-by-step instructions for installing Batchalign2 with `uv`
 
 ---
 
-## Forced Alignment – Montreal Forced Aligner (MFA)
+## Forced Alignment – Montreal Forced Aligner (MFA) {#mfa}
 
 ### What is MFA?
 
@@ -85,7 +86,7 @@ This PDF provides a step-by-step guide to installing MFA with Miniconda, setting
 
 ---
 
-## Psych Verb Corpus (English–Chinese) – in preparation
+## Psych Verb Corpus (English–Chinese) – in preparation {#psych-verb-corpus}
 
 This is a bilingual corpus of English psychological verbs and their Chinese translations, linked to large-scale norming data from three studies on implicit causality/consequentiality and related semantic dimensions.
 

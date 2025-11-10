@@ -11,6 +11,7 @@ title: Resources and Tutorials
   - Transcription & Corpus Analysis – CLAN + Batchalign2
   - Forced Alignment – Montreal Forced Aligner (MFA)
   - Psych Verb Corpus (English–Chinese) – in preparation
+    
 ---
 
 ## Vocabulary Assessment – PPVT

@@ -78,3 +78,18 @@ Typical use cases include preparing data for formant analysis, VOT measurements,
 
 This PDF provides a step-by-step guide to installing MFA with Miniconda, setting up a dedicated environment, installing MFA, downloading acoustic models and pronunciation dictionaries (e.g., `english_us_arpa`, `mandarin_mfa`), and running alignment commands from the terminal with concrete path examples and sample output.
 
+---
+
+## Psych Verb Corpus (English–Chinese) – in preparation
+
+This is a bilingual corpus of English psychological verbs and their Chinese translations, linked to large-scale norming data from three studies on implicit causality/consequentiality and related semantic dimensions.
+
+The resource is designed to support work on:
+- Pronoun resolution and discourse coherence
+- Cross-linguistic comparisons of psych verbs
+- Experimental stimulus construction in English and Mandarin
+
+Planned public release: after the main papers based on these data are published.  
+A subset of the corpus and documentation will be posted here when available.
+
+

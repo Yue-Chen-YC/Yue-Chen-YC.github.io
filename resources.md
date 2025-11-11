@@ -23,6 +23,7 @@ The Peabody Picture Vocabulary Test (PPVT) is a standardized test of **receptive
 
 Scores are norm-referenced by age and can be used to estimate vocabulary level, compare groups, or include receptive vocabulary as a covariate in experimental work.
 
+
 [Download PPVT Tutorial (PDF)]({{ "/file/Vocabulary_PPVT.pdf" | relative_url }})
 
 This PDF provides a brief introduction to the Peabody Picture Vocabulary Test (PPVT), including background, basal/ceiling rules, and example items for administration. It is adapted from materials I developed for one of my previous research projects.
@@ -42,9 +43,10 @@ This PDF provides a brief introduction to the Peabody Picture Vocabulary Test (P
 
 It’s widely used in child language, clinical, and corpus-based research, and is basically the standard toolchain if you work with TalkBank data.
 
+
 [Download CLAN Tutorial (PDF)]({{ "/file/CLAN_Tutorial.pdf" | relative_url }})
 
-This PDF walks through installing CLAN on macOS, installing MOR grammars, finding CLAN on your laptop, setting up new scripts, using header and ID tiers, language codes, common shortcuts, and conventions for gestures, code-switching, and other CHAT symbols, and is adapted from materials I developed for a previous research project and for training students/assistants.
+This PDF walks through installing CLAN on macOS, adding MOR grammars, locating CLAN on your laptop, setting up new scripts, using header and ID tiers, choosing language codes, and applying common shortcuts and conventions for gestures, code-switching, and other CHAT symbols. It is adapted from materials I developed while working as a research assistant under the supervision of Maggie Ziyin Mai and for training students and research assistants.
 
 ### Syntactic & Morphological Parsing with Batchalign2
 
@@ -60,9 +62,10 @@ This PDF walks through installing CLAN on macOS, installing MOR grammars, findin
 - Use Batchalign2 in the local terminal to run batchalign morphotag ba_input ba_output.
 - Inspect the %mor and %gra tiers in the output .cha files, and then use CLAN for further analyses (e.g., kwal +t%mor, kwal +t%gra).
 
+
 [Download Batchalign2 Parsing Tutorial (PDF)]({{ "/file/Syntactic_Parsing_Documentation.pdf" | relative_url }})
 
-This PDF provides step-by-step instructions for installing Batchalign2 with `uv`, preparing `.cha` files, running `batchalign morphotag` on input/output folders, and interpreting `%mor` and `%gra` tiers, with concrete examples from Italian data and suggestions for CLAN-based post-processing, which is adapted from materials I developed for a previous research project.
+This PDF provides step-by-step instructions for installing Batchalign2 with `uv`, preparing `.cha` files, running `batchalign morphotag` on input/output folders, and interpreting `%mor` and `%gra` tiers, with concrete examples from Italian data and suggestions for CLAN-based post-processing, which is adapted from materials I developed for previous research projects.
 
 ---
 
@@ -78,6 +81,7 @@ MFA uses:
 - Command-line workflows that can be integrated with other tools (e.g., Python, Praat, R)
 
 Typical use cases include preparing data for formant analysis, VOT measurements, prosody studies, and large-scale speech corpora.
+
 
 [Download Montreal Forced Aligner Tutorial (PDF)]({{ "/file/Montreal-Forced-Aligner.pdf" | relative_url }})
 

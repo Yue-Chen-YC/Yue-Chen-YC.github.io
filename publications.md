@@ -35,5 +35,6 @@ title: Publications
 - Empathy Locus and Discourse Topicality: An Individual-Differences Analysis of Reflexive Pronoun Resolution in Mandarin Chinese <br>
 - Implicit Causality in Pronoun Resolution: Divergent Pathways for Pronouns and Reflexives <br>
 - Mapping Minds in Language: Children’s Acquisition of Psychological Verbs <br>
+- Who Feels, Who Acts: Implicit Causality, Consequentiality, and Discourse Inference in Large Language Models <br>
 
 

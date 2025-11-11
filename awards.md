@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 5th Sep 2025 &nbsp;
+> Latest Update: 5th Sep 2025 &nbsp;
 
 ## Scholarships & Grants
 - 2025：Paula Menyuk Award for BUCLD 50 ($400)

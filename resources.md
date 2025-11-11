@@ -25,7 +25,7 @@ Scores are norm-referenced by age and can be used to estimate vocabulary level, 
 
 [Download PPVT Tutorial (PDF)]({{ "/file/Vocabulary_PPVT.pdf" | relative_url }})
 
-This PDF provides a brief introduction to the Peabody Picture Vocabulary Test (PPVT), including background, basal/ceiling rules, and example items for administration.
+This PDF provides a brief introduction to the Peabody Picture Vocabulary Test (PPVT), including background, basal/ceiling rules, and example items for administration. It is adapted from materials I developed for one of my previous research projects.
 
 ---
 
@@ -44,8 +44,7 @@ It’s widely used in child language, clinical, and corpus-based research, and i
 
 [Download CLAN Tutorial (PDF)]({{ "/file/CLAN_Tutorial.pdf" | relative_url }})
 
-This PDF walks through installing CLAN on macOS, installing MOR grammars, finding CLAN on your laptop, setting up new scripts, using header and ID tiers, language codes, common shortcuts, and conventions for gestures, code-switching, and other CHAT symbols.
-
+This PDF walks through installing CLAN on macOS, installing MOR grammars, finding CLAN on your laptop, setting up new scripts, using header and ID tiers, language codes, common shortcuts, and conventions for gestures, code-switching, and other CHAT symbols, and is adapted from materials I developed for a previous research project and for training students/assistants.
 
 ### Syntactic & Morphological Parsing with Batchalign2
 
@@ -63,7 +62,7 @@ This PDF walks through installing CLAN on macOS, installing MOR grammars, findin
 
 [Download Batchalign2 Parsing Tutorial (PDF)]({{ "/file/Syntactic_Parsing_Documentation.pdf" | relative_url }})
 
-This PDF provides step-by-step instructions for installing Batchalign2 with `uv`, preparing `.cha` files, running `batchalign morphotag` on input/output folders, and interpreting `%mor` and `%gra` tiers, with concrete examples from Italian data and suggestions for CLAN-based post-processing.
+This PDF provides step-by-step instructions for installing Batchalign2 with `uv`, preparing `.cha` files, running `batchalign morphotag` on input/output folders, and interpreting `%mor` and `%gra` tiers, with concrete examples from Italian data and suggestions for CLAN-based post-processing, which is adapted from materials I developed for a previous research project.
 
 ---
 
@@ -82,7 +81,7 @@ Typical use cases include preparing data for formant analysis, VOT measurements,
 
 [Download Montreal Forced Aligner Tutorial (PDF)]({{ "/file/Montreal-Forced-Aligner.pdf" | relative_url }})
 
-This PDF provides a step-by-step guide to installing MFA with Miniconda, setting up a dedicated environment, installing MFA, downloading acoustic models and pronunciation dictionaries (e.g., `english_us_arpa`, `mandarin_mfa`), and running alignment commands from the terminal with concrete path examples and sample output.
+This PDF provides a step-by-step guide to installing MFA with Miniconda, setting up a dedicated environment, installing MFA, downloading acoustic models and pronunciation dictionaries (e.g., english_us_arpa, mandarin_mfa), and running alignment commands from the terminal with concrete path examples and sample output. It is adapted from materials I developed for a project testing Whisper-based automatic transcription of naturalistic speech production.
 
 ---
 

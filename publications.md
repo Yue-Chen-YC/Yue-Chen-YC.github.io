@@ -28,13 +28,20 @@ title: Publications
 
 ---
 
-## Manuscripts
-- Parental Input of the Chinese Bare Reflexive Pronoun 'ziji' and Its Impact on Children's Reflexive Understanding: An Analysis of Prosodic Bootstrapping in Language Acquisition <br>
-- Classifiers as Semantic Cues: Analyzing BERT's Word Prediction in Chinese <br>
-- From ‘Um’ to Words: The Role of Disfluency Interactions in Shaping Early Language Development <br>
-- Empathy Locus and Discourse Topicality: An Individual-Differences Analysis of Reflexive Pronoun Resolution in Mandarin Chinese <br>
-- Implicit Causality in Pronoun Resolution: Divergent Pathways for Pronouns and Reflexives <br>
-- Mapping Minds in Language: Children’s Acquisition of Psychological Verbs <br>
-- Who Feels, Who Acts: Implicit Causality, Consequentiality, and Discourse Inference in Large Language Models <br>
+## Manuscripts & Ongoing Projects
+
+### Acquisition
+- Parental Input of the Chinese Bare Reflexive Pronoun *ziji* and Its Impact on Children's Reflexive Understanding: An Analysis of Prosodic Bootstrapping in Language Acquisition *(manuscript in preparation; based on CogSci 2025 poster)*
+- From “Um” to Words: The Role of Disfluency Interactions in Shaping Early Language Development *(manuscript in preparation; based on BUCLD 50 poster)*
+- Mapping Minds in Language: Children’s Acquisition of Psychological Verbs *(project in development)*
+
+### Reference Resolution
+- Empathy Locus and Discourse Topicality: An Individual-Differences Analysis of Reflexive Pronoun Resolution in Mandarin Chinese *(study in progress)*
+- Implicit Causality in Reference Resolution: Divergent Pathways for Pronouns and Reflexives *(project in development)*
+
+### Large Language Models & Machine Learning
+- Classifiers as Semantic Cues: Analyzing BERT's Word Prediction in Chinese *(data analysis in progress)*
+- Who Feels, Who Acts? Implicit Causality, Consequentiality, and Discourse Inference in Large Language Models *(project in development)*
+
 
 

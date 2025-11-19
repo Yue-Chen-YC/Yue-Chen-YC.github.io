@@ -9,7 +9,7 @@ title: Resources and Tutorials
 
 **On this page:**
 - [Vocabulary Assessment – PPVT](#ppvt)
-- [Transcription & Corpus Analysis – CLAN + Batchalign2](#clan-batchalign2)
+- [Transcription & Corpus Analysis – CLAN transcription + Batchalign2](#clan-batchalign2)
 - [Forced Alignment – Montreal Forced Aligner (MFA)](#mfa)
 - [Psych Verb Corpus (English–Chinese) – in preparation](#psych-verb-corpus)
 
@@ -43,10 +43,13 @@ This PDF provides a brief introduction to the Peabody Picture Vocabulary Test (P
 
 It’s widely used in child language, clinical, and corpus-based research, and is basically the standard toolchain if you work with TalkBank data.
 
-
 [Download CLAN Tutorial (PDF)]({{ "/file/CLAN_Tutorial.pdf" | relative_url }})
 
 This PDF walks through installing CLAN on macOS, adding MOR grammars, locating CLAN on your laptop, setting up new scripts, using header and ID tiers, choosing language codes, and applying common shortcuts and conventions for gestures, code-switching, and other CHAT symbols. It is adapted from materials I developed while working as a research assistant under the supervision of Maggie Ziyin Mai and for training students and research assistants.
+
+[Download CLAN Transcription Tutorial (PDF)]({{"file/Transcribing.pdf" | relative_url }})
+
+This PDF walks through how to perform transcription in CLAN. It is adapted from materials I developed while working as a research assistant under the supervision of Maggie Ziyin Mai and for training students and research assistants.
 
 ### Syntactic & Morphological Parsing with Batchalign2
 

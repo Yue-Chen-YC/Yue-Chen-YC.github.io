@@ -12,6 +12,7 @@ title: Resources and Tutorials
 - [Transcription & Corpus Analysis – CLAN transcription + Batchalign2](#clan-batchalign2)
 - [Forced Alignment – Montreal Forced Aligner (MFA)](#mfa)
 - [Psych Verb Corpus (English–Chinese) – in preparation](#psych-verb-corpus)
+- [Narrow Phonetic Transcription Project (Mandarin Chinese) – in preparation](#mandarin-tones-corpus)
 
 ---
 
@@ -104,4 +105,17 @@ The resource is designed to support work on:
 Planned public release: after the main papers based on these data are published.  
 A subset of the corpus and documentation will be posted here when available.
 
+---
 
+## Narrow Phonetic Transcription Project (Mandarin Chinese) — *in preparation* {#mandarin-tones-corpus}
+
+This ongoing project provides **narrow phonetic transcriptions** for the **entire Mandarin CHILDES** collection. Our goal is to systematically annotate **speech errors**—including **tone errors**, **segmental (consonant/vowel) errors**, and **prosodic irregularities**—across **naturalistic adult–child interactions** in Mandarin.
+
+**Designed to support work on:**
+- Error patterns in child and caregiver speech from naturalistic corpora  
+- Tone acquisition and tone-specific error typology  
+- Segmental development and phonotactic constraints in early speech  
+- Links between disfluency/prosody and segmental or tonal errors
+
+Planned public release: after the main papers based on these data are published.  
+A subset of the corpus and documentation will be posted here when available.

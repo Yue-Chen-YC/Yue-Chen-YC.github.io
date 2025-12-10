@@ -5,6 +5,8 @@ title: Publications
 ---
 
 > Latest Update: Nov 19, 2025
+> 
+> Notes: I study how perspective/empathy and discourse structure shape reference in different languages, using corpus, experiments, and computational models.
 
 ## Journal Articles
 - Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., **Chen, Y.,** Oguz, M., Hong, S., Pan, C., Subramony, J., (2025). Measuring Adult Heritage Language Lexical Proficiency for Studies on Facilitative Processing of Gender. In O. Ivanova & Ó. Loureda (Eds.), Language Processing in Spanish Heritage Speakers [Special issue]. Languages, 10(8), 189. https://doi.org/10.3390/languages10080189

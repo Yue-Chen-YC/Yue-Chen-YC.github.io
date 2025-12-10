@@ -39,7 +39,7 @@ title: Publications
 - Empathy Locus and Discourse Topicality: Reflexive Pronoun Resolution in Mandarin Chinese *(study in progress)*
 
 ### Large Language Models & Machine Learning
-- Classifiers as Semantic Cues: Analyzing BERT's Word Prediction in Chinese *(data analysis in progress)*
+- Too Much Information? Mandarin Classifiers from Humans to LLMs *(data analysis in progress)*
 - Who Feels, Who Causes? Empathy Locus and Discourse Coherence in Large Language Models *(project in development)*
 
 

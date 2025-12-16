@@ -90,13 +90,12 @@
     const m = today.getMonth() + 1;
     const d = today.getDate();
 
-    // Christmas: Dec 1 -> Jan 5
-    
+// Christmas: Dec 1 -> Jan 5
 if (inRange(m, d, 12, 1, 1, 5)) {
-  el.style.display = "";              
+  el.style.display = "block";
   el.className = "seasonal-decor is-christmas";
 
-  const items = ["🎄","🎁","🎄","🎁","🎄","🎁","🎄","🎁","🎄","🎁","🎄","🎁","🎄","🎁"];  
+  const items = ["🎄","🎁"];
   const approx = 28;
   const n = Math.max(30, Math.ceil(el.clientWidth / approx));
 
@@ -107,19 +106,37 @@ if (inRange(m, d, 12, 1, 1, 5)) {
   return;
 }
 
+// Lunar New Year: Jan 20 -> Feb 20
+if (inRange(m, d, 1, 20, 2, 20)) {
+  el.style.display = "block";
+  el.className = "seasonal-decor is-lny";
 
+  const items = ["🧧","🏮","🍊"];
+  const approx = 28;
+  const n = Math.max(30, Math.ceil(el.clientWidth / approx));
 
-    // Halloween: Oct 15 -> Nov 1
-    if (inRange(m, d, 10, 15, 11, 1)) {
-      el.classList.add("is-halloween");
-      const n = 14;
-      el.innerHTML = Array.from({length: n}, () => '<span class="pumpkin">🎃</span>').join("");
-      return;
-    }
+  el.innerHTML = Array.from({ length: n }, (_, i) =>
+    `<span class="lny">${items[i % items.length]}</span>`
+  ).join("");
+
+  return;
+}
+
+// Halloween: Oct 15 -> Nov 1
+if (inRange(m, d, 10, 15, 11, 1)) {
+  el.style.display = "block";
+  el.className = "seasonal-decor is-halloween";
+
+  const approx = 28;
+  const n = Math.max(30, Math.ceil(el.clientWidth / approx));
+
+  el.innerHTML = Array.from({length: n}, () => '<span class="pumpkin">🎃</span>').join("");
+  return;
+}
 
 el.innerHTML = "";
 el.style.display = "none";
-  
+
   });
 })();
 </script>

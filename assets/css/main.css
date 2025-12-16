@@ -398,27 +398,50 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   min-height: 26px;
 }
 
-/* ===== Christmas lights ===== */
+/* ===== Christmas garland (emoji) ===== */
 .seasonal-decor.is-christmas{
-  height: 22px;
-  border-radius: 999px;
-  background:
-    radial-gradient(circle at 12px 50%, #ff4d4d 0 7px, transparent 8px) 0 0 / 48px 22px repeat-x,
-    radial-gradient(circle at 36px 50%, #ffd84d 0 7px, transparent 8px) 0 0 / 48px 22px repeat-x;
-  filter: drop-shadow(0 1px 1px rgba(0,0,0,.15));
-  position: relative;
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
 }
-.seasonal-decor.is-christmas::before{
-  content:"";
-  position:absolute;
-  inset:0;
-  background:
-    radial-gradient(circle at 12px 50%, #4dff88 0 7px, transparent 8px) 0 0 / 48px 22px repeat-x,
-    radial-gradient(circle at 36px 50%, #4dc3ff 0 7px, transparent 8px) 0 0 / 48px 22px repeat-x;
-  opacity: .25;
+
+.seasonal-decor.is-christmas .xmas{
+  font-size: 20px;   /* 想更大：22/24 */
+  line-height: 1;
+  display: inline-block;
   animation: blink 1.1s infinite steps(2, end);
+  transform-origin: 50% 70%;
 }
+
+.seasonal-decor.is-christmas .xmas:nth-child(2n){
+  animation-delay: .25s;
+}
+.seasonal-decor.is-christmas .xmas:nth-child(3n){
+  animation-delay: .5s;
+}
+.seasonal-decor.is-christmas .xmas:nth-child(4n){
+  animation-delay: .75s;
+}
+
+/* 可选：轻微摇摆，更“挂灯串” */
+@keyframes sway{
+  0%,100% { transform: rotate(-6deg); }
+  50%     { transform: rotate(6deg); }
+}
+.seasonal-decor.is-christmas .xmas{
+  animation: blink 1.1s infinite steps(2, end), sway 2.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce){
+  .seasonal-decor.is-christmas .xmas,
+  .seasonal-decor.is-halloween .pumpkin{
+    animation: none;
+    opacity: .9;
+  }
+}
+
+
 
 /* ===== Halloween pumpkins ===== */
 .seasonal-decor.is-halloween{

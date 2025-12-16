@@ -94,7 +94,7 @@
     if (inRange(m, d, 12, 1, 1, 5)) {
   el.classList.add("is-christmas");
   const items = ["🎄","✨","🎁","🔔","🧦","🍪","❄️","⭐️","🎄","✨","🎁","🔔","🧦","🍪","❄️","⭐️","🎄","✨","🎁","🔔","🧦","🍪","❄️","⭐️"];
-  const n = 48;
+  const n = 41;
   el.innerHTML = Array.from({length: n}, (_, i) =>
     `<span class="xmas">${items[i % items.length]}</span>`
   ).join("");

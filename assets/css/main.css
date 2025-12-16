@@ -459,6 +459,27 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .seasonal-decor.is-halloween .pumpkin:nth-child(2n){ animation-delay: .3s; }
 .seasonal-decor.is-halloween .pumpkin:nth-child(3n){ animation-delay: .6s; }
 
+/* ===== Lunar New Year (emoji garland) ===== */
+.seasonal-decor.is-lny{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  width: 100%;
+  overflow: hidden;
+  filter: drop-shadow(0 1px 1px rgba(0,0,0,.12));
+}
+
+.seasonal-decor.is-lny .lny{
+  font-size: 22px;
+  line-height: 1;
+  display: inline-block;
+  animation: blink 1.15s infinite steps(2, end);
+}
+.seasonal-decor.is-lny .lny:nth-child(2n){ animation-delay: .25s; }
+.seasonal-decor.is-lny .lny:nth-child(3n){ animation-delay: .5s; }
+.seasonal-decor.is-lny .lny:nth-child(4n){ animation-delay: .75s; }
+
 @keyframes blink{
   50% { opacity: 1; filter: brightness(1.15); }
   0%,100% { opacity: .35; }
@@ -468,7 +489,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   .seasonal-decor.is-christmas::before,
   .seasonal-decor.is-halloween .pumpkin{
     animation: none;
-    opacity: .9;
+    opacity: .6;
   }
 }
 

@@ -415,10 +415,12 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 #seasonal-decor.is-lny{
   display: flex;
   align-items: center;
-  justify-content: space-between;  /* 铺满 */
-  flex-wrap: nowrap;              /* 不换行 */
+  justify-content: flex-start;  /* 改这里 */
+  flex-wrap: nowrap;
   overflow: hidden;
+  gap: 18px;                    /* ✅ 间隔大一点 */
 }
+
 
 /* ===== Christmas (emoji) ===== */
 #seasonal-decor.is-christmas .xmas{

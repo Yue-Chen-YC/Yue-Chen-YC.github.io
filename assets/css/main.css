@@ -418,13 +418,13 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   justify-content: flex-start;  /* 改这里 */
   flex-wrap: nowrap;
   overflow: hidden;
-  gap: 18px;                    /* ✅ 间隔大一点 */
+  gap: 24px;                    /* ✅ 间隔大一点 */
 }
 
 
 /* ===== Christmas (emoji) ===== */
 #seasonal-decor.is-christmas .xmas{
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1;
   display: inline-block;
   transform-origin: 50% 70%;
@@ -436,7 +436,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 
 /* ===== Halloween (emoji) ===== */
 #seasonal-decor.is-halloween .pumpkin{
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1;
   display: inline-block;
   animation: blink 1.2s infinite steps(2, end);
@@ -449,7 +449,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   filter: drop-shadow(0 1px 1px rgba(0,0,0,.12));
 }
 #seasonal-decor.is-lny .lny{
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1;
   display: inline-block;
   animation: blink 1.15s infinite steps(2, end);

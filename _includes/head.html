@@ -68,3 +68,43 @@
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/images/fav.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}/images/fav.png">
+
+
+<!-- lights-->
+
+<script>
+(function () {
+  function inRange(m, d, startM, startD, endM, endD) {
+    const now = m * 100 + d;
+    const start = startM * 100 + startD;
+    const end = endM * 100 + endD;
+    if (start <= end) return now >= start && now <= end;
+    return now >= start || now <= end; // cross-year
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const el = document.getElementById("seasonal-decor");
+    if (!el) return;
+
+    const today = new Date();
+    const m = today.getMonth() + 1;
+    const d = today.getDate();
+
+    // Christmas: Dec 1 -> Jan 5
+    if (inRange(m, d, 12, 1, 1, 5)) {
+      el.classList.add("is-christmas");
+      return;
+    }
+
+    // Halloween: Oct 15 -> Nov 1
+    if (inRange(m, d, 10, 15, 11, 1)) {
+      el.classList.add("is-halloween");
+      const n = 14;
+      el.innerHTML = Array.from({length: n}, () => '<span class="pumpkin">🎃</span>').join("");
+      return;
+    }
+
+    el.style.display = "none";
+  });
+})();
+</script>

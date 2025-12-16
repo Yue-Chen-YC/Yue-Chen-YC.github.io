@@ -471,3 +471,23 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     opacity: .9;
   }
 }
+
+/* put the seasonal decor on top of the nav text */
+#seasonal-decor.seasonal-decor{
+  position: fixed;
+  top: 6px;              /* 往下挪一点点：你可以改 0 / 8 / 12 */
+  left: 0;
+  width: 100vw;          /* 关键：整屏宽，避免换行 */
+  z-index: 9999;         /* 盖在导航文字上 */
+  pointer-events: none;  /* 不挡你点导航 */
+  margin: 0;
+  padding: 0 12px;
+}
+
+/* 保证圣诞串一行不换行 */
+#seasonal-decor.is-christmas{
+  flex-wrap: nowrap;
+  overflow: hidden;
+  justify-content: space-between;
+}
+

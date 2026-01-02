@@ -90,8 +90,8 @@
     const m = today.getMonth() + 1;
     const d = today.getDate();
 
-// Christmas: Dec 1 -> Jan 5
-if (inRange(m, d, 12, 1, 1, 5)) {
+// Christmas: Dec 20 -> Jan 1
+if (inRange(m, d, 12, 20, 1, 1)) {
   el.style.display = "block";
   el.className = "seasonal-decor is-christmas";
 
@@ -108,8 +108,8 @@ const n = Math.ceil(el.clientWidth / approx) + 10; // +10 防止边缘露白
   return;
 }
 
-// Lunar New Year: Jan 20 -> Feb 20
-if (inRange(m, d, 1, 20, 2, 20)) {
+// Lunar New Year: Jan 25 -> Feb 15
+if (inRange(m, d, 1, 25, 2, 15)) {
   el.style.display = "block";
   el.className = "seasonal-decor is-lny";
 

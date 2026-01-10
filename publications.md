@@ -14,7 +14,7 @@ title: Publications
 
 ---
 ## Conference Proceedings
-- **Chen, Y.,** Shang, M., & Mai, Z. (2025). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).
+- **Chen, Y.,** Shang, M., & Mai, Z. (2025). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47). https://escholarship.org/uc/item/7xs6k5h2
   
 ---
 ## Conference Presentations and Posters

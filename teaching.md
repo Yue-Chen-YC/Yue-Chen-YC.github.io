@@ -10,3 +10,7 @@ title: Teaching
 - **Fall 2025**:
   - Ling 115: Language and Society
   - Professor: Andrew Simpson
+- **Spring 2026**:
+  - LING 385: Human Language as Computation
+  - Professor: Khalil Iskarous
+

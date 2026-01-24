@@ -42,7 +42,7 @@ title: Publications
 - Mapping Minds in Language: Children’s Acquisition of Psychological Verbs *(project in development)*
 
 ### Reference Resolution
-- Empathy Locus and Discourse Topicality: Reflexive Pronoun Resolution in Mandarin Chinese *(study in progress)*
+- When Empathy Locus meets Discourse Topicality: Reflexive Pronoun Resolution in Mandarin Chinese *(study in progress)*
 
 ### Large Language Models & Machine Learning
 - Too Much Information? Mandarin Classifiers from Humans to LLMs *(submitted to HSP)*

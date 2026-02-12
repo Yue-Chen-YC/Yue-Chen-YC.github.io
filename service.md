@@ -12,7 +12,7 @@ title: Service
 ## Reviewer
   -  CAMP7, CAMP8
   -  SAIS 2025
-  -  CogSci 2025
+  -  CogSci 2025, CogSci 2026
   -  AMCIS 2025
   -  PACIS 2025
 

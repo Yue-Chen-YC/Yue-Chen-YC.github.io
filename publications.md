@@ -18,7 +18,7 @@ title: Publications
   
 ---
 ## Conference Presentations and Posters
-- **Chen, Y.** (2026, March). Too Much Information? Mandarin Classifiers from Humans to LLMs.  **[Poster]** 39th Annual Conference on Human Sentence Processing (HSP 36), Cambridge, MA.
+- **Chen, Y.** (2026, March). Too Much Information? Mandarin Classifiers from Humans to LLMs.  **[Poster]** 39th Annual Conference on Human Sentence Processing (HSP 39), Cambridge, MA.
 - **Chen, Y.** (2025, November). From ‘Um' to Words: The Role of Disfluency Interactions in Shaping Early Language Development. **[Poster] (One of the top-rated student submissions; Paula Menyuk Award)** 50th Annual Boston University Conference on Language Development (BUCLD), Boston, MA.
 - **Chen, Y.**, Mai, Z., Shang, M., (2025, July). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. **[Poster]** CogSci 2025, San Francisco, CA.
 - Fuchs, Z., Kealey, E., Eldem, E., Mermelstein, L., Pham, L., Runova, A., Hong, S., Oguz, M., **Chen, Y.**, Pan, C., Subramony, J., (2025, June). Predicting facilitative processing of gender in Heritage Spanish using measures of lexical proficiency. **[Poster]** 16th Heritage Language Research Institute (HLRI), Madison, WI.

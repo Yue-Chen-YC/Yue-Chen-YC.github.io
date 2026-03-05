@@ -7,6 +7,7 @@ title: Awards
 > Latest Update: 5th Sep 2025 &nbsp;
 
 ## Scholarships & Grants
+- 2026：Travel Award for HSP 2026 ($400)
 - 2025：Paula Menyuk Award for BUCLD 50 ($400)
 - 2023：Rose Gilbert in Memory of Maggie Gilbert Scholarship ($3000)
 - 2023：UCLA Linguistics Department Honors ($200)

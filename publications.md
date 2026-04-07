@@ -43,7 +43,7 @@ title: Publications
 - Mapping Minds in Language: Children’s Acquisition of Psychological Verbs *(project in development)*
 
 ### Reference Resolution
-- Who Is Whom? Influences of Theta Roles and Discourse Topicality on the Resolution of Mandarin Reflexives *(study in progress)*
+- Who Is Whom? Influences of Theta Roles and Discourse Topicality on the Resolution of Mandarin Reflexives *(manuscript in preparation)*
 
 ### Large Language Models & Machine Learning
 - Who Feels, Who Causes? Empathy Locus and Discourse Coherence in Large Language Models *(project in development)*

@@ -18,6 +18,7 @@ title: Publications
   
 ---
 ## Conference Presentations and Posters
+- Charan, D., **Chen, Y.,** Grachek, D., Huang, P.-H., He, M., Hsu, H., Li, J., Wang, Y., & Breiss, C. (2026, April). A large-scale corpus investigation of Italian troncamento. [Poster]. Southern California April Meeting on Phonology (SCAMP), University of Southern California, Los Angeles, CA.
 - **Chen, Y.** (2026, March). Too Much Information? Mandarin Classifiers from Humans to LLMs.  **[Poster]** 39th Annual Conference on Human Sentence Processing (HSP 39), Cambridge, MA.
 - **Chen, Y.** (2025, November). From ‘Um' to Words: The Role of Disfluency Interactions in Shaping Early Language Development. **[Poster] (One of the top-rated student submissions; Paula Menyuk Award)** 50th Annual Boston University Conference on Language Development (BUCLD), Boston, MA.
 - **Chen, Y.**, Mai, Z., Shang, M., (2025, July). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. **[Poster]** CogSci 2025, San Francisco, CA.

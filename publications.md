@@ -14,6 +14,7 @@ title: Publications
 
 ---
 ## Conference Proceedings
+- **Chen, Y.,** (in press). From <i>um</i> to Words: The Role of Disfluency Interactions in Shaping Early Language Development. In Proceedings of the 50th Annual Boston University Conference on Language Development.
 - **Chen, Y.,** Shang, M., & Mai, Z. (2025). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47). https://escholarship.org/uc/item/7xs6k5h2
   
 ---
@@ -40,7 +41,6 @@ title: Publications
 
 ### Acquisition
 - Parental Input of the Chinese Bare Reflexive Pronoun *ziji* and Its Impact on Children's Reflexive Understanding: An Analysis of Prosodic Bootstrapping in Language Acquisition *(manuscript in preparation; based on CogSci 2025 poster)*
-- From “Um” to Words: The Role of Disfluency Interactions in Shaping Early Language Development *(manuscript in preparation; based on BUCLD 50 poster)*
 - Mapping Minds in Language: Children’s Acquisition of Psychological Verbs *(project in development)*
 
 ### Reference Resolution

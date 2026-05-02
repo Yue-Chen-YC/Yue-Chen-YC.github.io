@@ -20,6 +20,10 @@ I also maintain a growing set of methods, tutorials, and research resources, whi
 
 - **University of Southern California**
   - PhD in Linguistics, 2024 - Present
+- **University of Southern California**
+  - MA in Linguistics, 2024 - 2026
+    - **Thesis**: Who Is Whom? Influences of Theta Roles and Discourse Topicality on the Resolution of Mandarin Reflexives
+    - **Committee**: Elsi Kaiser (chair), Zuzanna Fuchs, Andrew Simpson, Jun Lyu
 - **The University of California, Los Angeles (UCLA)**
   - BA in Linguistics and Psychology, 2023
   - Minor in Comparative Literature, 2023

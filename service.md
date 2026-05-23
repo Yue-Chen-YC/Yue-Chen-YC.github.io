@@ -15,6 +15,7 @@ title: Service
   -  CogSci 2025, CogSci 2026
   -  AMCIS 2025
   -  PACIS 2025
+  -  AMLaP 2026
 
 ## Public and University Events 
 - 2023：**Invited Presenter, Bruin Day for Admitted Transfers, UCLA** <br>A presentation on my current honors thesis, sharing insights from my undergraduate research journey as a first-generation college student at UCLA. The session will include a Q&A on conducting research and accessing resources as an undergraduate.

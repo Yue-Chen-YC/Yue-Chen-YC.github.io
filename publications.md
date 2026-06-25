@@ -19,6 +19,8 @@ title: Publications
   
 ---
 ## Conference Presentations and Posters
+- **Chen, Y.,** Lyu, J., Kaiser, E. (2026, September). On the Interplay of Topicality and Perspectival Information in Reference Resolution: Insights from Anaphoric Reflexives. **[Talk]** Discourse Expectations: Theoretical, Experimental and Computational Perspectives (DETEC 2026), Utrecht University, Utrecht, the Netherlands.
+- **Chen, Y.,** Lyu, J., Kaiser, E. (2026, September). Topic and Experiencer Both Matter: Multiple Cues in Mandarin Reflexive Resolution. **[Poster]** Architectures and Mechanisms for Language Processing (AMLaP 2026), Saarland University, Saarbrücken, Germany.
 - Charan, D., **Chen, Y.,** Grachek, D., Huang, P.-H., He, M., Hsu, H., Li, J., Wang, Y., & Breiss, C. (2026, April). A large-scale corpus investigation of Italian troncamento. **[Poster]** Southern California April Meeting on Phonology (SCAMP), University of Southern California, Los Angeles, CA.
 - **Chen, Y.** (2026, March). Too Much Information? Mandarin Classifiers from Humans to LLMs.  **[Poster]** 39th Annual Conference on Human Sentence Processing (HSP 39), Cambridge, MA.
 - **Chen, Y.** (2025, November). From ‘Um' to Words: The Role of Disfluency Interactions in Shaping Early Language Development. **[Poster] (One of the top-rated student submissions; Paula Menyuk Award)** 50th Annual Boston University Conference on Language Development (BUCLD), Boston, MA.

@@ -7,7 +7,7 @@ title: Service
 > Latest Update: 24th May 2025 &nbsp;
 
 ## Academic Service
-- 2025–Present: **Colloquium Coordinator** (with Yingyu Su), Graduate Students in Linguistics (GSiL), University of Southern California (USC)
+- 2025–2026: **Colloquium Coordinator** (with Yingyu Su), Graduate Students in Linguistics (GSiL), University of Southern California (USC)
 
 ## Reviewer
   -  CAMP7, CAMP8

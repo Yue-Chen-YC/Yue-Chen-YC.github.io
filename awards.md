@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Latest Update: 5th Sep 2025 &nbsp;
+> Latest Update: June 29, 2026 &nbsp;
 
 ## Scholarships & Grants
 - 2026：Travel Award for HSP 2026 ($400)

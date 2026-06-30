@@ -4,7 +4,7 @@ permalink: /resources/index.html
 title: Resources and Tutorials
 ---
 
-> **Latest Update:** 5th Nov 2025<br>
+> **Latest Update:** June 29 2026<br>
 > **Note:** These tutorials are based on materials I developed for my own projects and/or for training students/research assistants. <br>
 
 **On this page:**

@@ -50,6 +50,7 @@ title: Publications
 
 ### Large Language Models & Machine Learning
 - Who Feels, Who Causes? Empathy Locus and Discourse Coherence in Large Language Models *(project in development)*
+- From Words to Social Worlds: Psych Verbs as Linguistic Probes of Social Cognition in Language Models *(project in development)*
 
 
 

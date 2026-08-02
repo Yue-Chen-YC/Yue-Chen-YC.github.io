@@ -13,6 +13,11 @@ title: Publications
 - Mai, Z., Wong, P. C., Matthews, S., Yip, V., Liao, H., Nie, J., **Chen, Y.** (2025). Zhuang-Mandarin bilingual children in rural China and the role of grandparental input in early bilingualism. PloS one, 20(6), e0326671. https://doi.org/10.1371/journal.pone.0326671
 
 ---
+## Invited Talks
+- Wang, Z., He, M., **Chen, Y.** (2026, July). Simulating Language Impairment via Causal Head Ablation. [Invited Talk] Health, Educational, & Assistive Technology (HEAT) Lab, University of Southern California, Los Angeles, CA.
+  
+---
+
 ## Conference Proceedings
 - **Chen, Y.** (2026). From <i>um<i> to words: The role of disfluency interactions in shaping early language development. In Proceedings of the 50th Annual Boston University Conference on Language Development (BUCLD 50). https://www.lingref.com/bucld/50/BUCLD50-14.pdf
 - **Chen, Y.,** Shang, M., Mai, Z. (2025). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47). https://escholarship.org/uc/item/7xs6k5h2

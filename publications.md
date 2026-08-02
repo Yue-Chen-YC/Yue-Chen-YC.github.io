@@ -42,14 +42,11 @@ title: Publications
 
 ## Manuscripts & Ongoing Projects
 
-### Acquisition
-- Parental Input of the Chinese Bare Reflexive Pronoun *ziji* and Its Impact on Children's Reflexive Understanding: An Analysis of Prosodic Bootstrapping in Language Acquisition *(manuscript in preparation; based on CogSci 2025 poster)*
+### Psycholinguistics
 - Mapping Minds in Language: Children’s Acquisition of Psychological Verbs *(project in development)*
-
-### Reference Resolution
 - Who Is Whom? Influences of Theta Roles and Discourse Topicality on the Resolution of Mandarin Reflexives *(manuscript in preparation)*
 
-### Large Language Models & Machine Learning
+### Computational Linguistics
 - Who Feels, Who Causes? Empathy Locus and Discourse Coherence in Large Language Models *(project in development)*
 - From Words to Social Worlds: Psych Verbs as Linguistic Probes of Social Cognition in Language Models *(project in development)*
 

@@ -7,7 +7,7 @@ title: Teaching
 > Latest Update: 30th Aug 2025 &nbsp;
 
 ## TAships at University of Southern California
-- **Fall 2025**:
+- **Fall 2025**, **Fall 2026**:
   - Ling 115: Language and Society
   - Professor: Andrew Simpson
 - **Spring 2026**:

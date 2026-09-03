@@ -14,7 +14,7 @@ title: Publications
 
 ---
 ## Invited Talks
-- Wang, Z., He, M., **Chen, Y.** (2026, July). Simulating Language Impairment via Causal Head Ablation. [Invited Talk] Health, Educational, & Assistive Technology (HEAT) Lab, University of Southern California, Los Angeles, CA.
+- Wang, Z., He, M., **Chen, Y.** (2026, July). Simulating Language Impairment via Causal Head Ablation. **[Invited Talk]** Health, Educational, & Assistive Technology (HEAT) Lab, University of Southern California, Los Angeles, CA.
   
 ---
 
@@ -24,7 +24,7 @@ title: Publications
   
 ---
 ## Conference Presentations and Posters
-- **Chen, Y.,** Wan, E., Xiao, Y., Balarin de Siqueira, C., Noh, S., Fuchs, Z., Yue, Y., Wu, H., & Du, Y. (2027, March). Classifiers in bilingual Mandarin-English child language assessment [Poster presentation]. Convergence 2027, California Speech-Language-Hearing Association (CSHA), Long Beach, CA.
+- **Chen, Y.,** Wan, E., Xiao, Y., Balarin de Siqueira, C., Noh, S., Fuchs, Z., Yue, Y., Wu, H., & Du, Y. (2027, March). Classifiers in bilingual Mandarin-English child language assessment **[Poster]**. Convergence 2027, California Speech-Language-Hearing Association (CSHA), Long Beach, CA.
 - **Chen, Y.,** Lyu, J., Kaiser, E. (2026, September). On the Interplay of Topicality and Perspectival Information in Reference Resolution: Insights from Anaphoric Reflexives. **[Talk]** Discourse Expectations: Theoretical, Experimental and Computational Perspectives (DETEC 2026), Utrecht University, Utrecht, the Netherlands.
 - **Chen, Y.,** Lyu, J., Kaiser, E. (2026, September). Topic and Experiencer Both Matter: Multiple Cues in Mandarin Reflexive Resolution. **[Poster]** Architectures and Mechanisms for Language Processing (AMLaP 2026), Saarland University, Saarbrücken, Germany.
 - Lyu, J., **Chen, Y.** (2026, September). Syntactic knowledge drives cataphora resolution beyond BERT’s reach. **[Talk]** Architectures and Mechanisms for Language Processing (AMLaP 2026), Saarland University, Saarbrücken, Germany.

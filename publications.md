@@ -25,6 +25,7 @@ title: Publications
 ---
 ## Conference Presentations and Posters
 - **Chen, Y.,** Wan, E., Xiao, Y., Balarin de Siqueira, C., Noh, S., Fuchs, Z., Yue, Y., Wu, H., & Du, Y. (2027, March). Classifiers in bilingual Mandarin-English child language assessment **[Poster]**. Convergence 2027, California Speech-Language-Hearing Association (CSHA), Long Beach, CA.
+- Breiss, C., Huang, P.-H., **Chen, Y.,** Hsu, H., Grachek, D., Charan, D., He, M., Wang, Y., & Li, J. (2027, January). What conditions variation in Italian Troncamento? A large-scale corpus investigation of spontaneous speech. **[Talk]**. 2027 Linguistic Society of America Annual Meeting (LSA 2027), San Francisco, CA.
 - **Chen, Y.,** Lyu, J., Kaiser, E. (2027, January). Who Is Whom? Influences of Theta Roles and Discourse Topicality on the Resolution of Mandarin Reflexives. **[Talk]**. 2027 Linguistic Society of America Annual Meeting (LSA 2027), San Francisco, CA.
 - **Chen, Y.,** Lyu, J., Kaiser, E. (2026, September). On the Interplay of Topicality and Perspectival Information in Reference Resolution: Insights from Anaphoric Reflexives. **[Talk]** Discourse Expectations: Theoretical, Experimental and Computational Perspectives (DETEC 2026), Utrecht University, Utrecht, the Netherlands.
 - **Chen, Y.,** Lyu, J., Kaiser, E. (2026, September). Topic and Experiencer Both Matter: Multiple Cues in Mandarin Reflexive Resolution. **[Poster]** Architectures and Mechanisms for Language Processing (AMLaP 2026), Saarland University, Saarbrücken, Germany.

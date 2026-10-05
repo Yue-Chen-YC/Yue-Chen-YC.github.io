@@ -11,6 +11,7 @@ title: Resources and Tutorials
 - [Vocabulary Assessment – PPVT](#ppvt)
 - [Transcription & Corpus Analysis – CLAN transcription + Batchalign2](#clan-batchalign2)
 - [Forced Alignment – Montreal Forced Aligner (MFA)](#mfa)
+- [Factor analysis – in preparation](#factor)
 - [Psych Verb Corpus (English–Chinese) – in preparation](#psych-verb-corpus)
 - [Narrow Phonetic Transcription Project (Mandarin Chinese) – in preparation](#mandarin-tones-corpus)
 
@@ -90,6 +91,26 @@ Typical use cases include preparing data for formant analysis, VOT measurements,
 [Download Montreal Forced Aligner Tutorial (PDF)]({{ "/file/Montreal-Forced-Aligner.pdf" | relative_url }})
 
 This PDF provides a step-by-step guide to installing MFA with Miniconda, setting up a dedicated environment, installing MFA, downloading acoustic models and pronunciation dictionaries (e.g., english_us_arpa, mandarin_mfa), and running alignment commands from the terminal with concrete path examples and sample output. It is adapted from materials I developed for a project testing Whisper-based automatic transcription of naturalistic speech production.
+
+---
+## Factor analysis – in preparation {#factor}
+
+### What is Factor Analysis?
+
+**Factor analysis** is a family of statistical methods used to identify latent variables (factors) that explain patterns of correlations among observed variables. It is widely used in psychology, linguistics, education, and other social sciences when researchers want to understand whether a larger set of measured variables can be represented by a smaller number of underlying constructs.
+
+### Two major approaches are:
+- **Exploratory Factor Analysis (EFA)**: used when the underlying factor structure is not known in advance. EFA helps explore how many latent factors may exist and which observed variables tend to cluster together.
+- In EFA, the relationships between observed variables and latent factors are largely estimated from the data. Researchers typically examine factor loadings, eigenvalues, scree plots, factor rotations, and model interpretability when deciding on an appropriate factor solution.
+- **EFA asks**: What latent structure might explain these variables?
+- **Confirmatory Factor Analysis (CFA)**: used when researchers have a theoretically motivated factor structure and want to test how well that structure fits the observed data.
+- In CFA, the researcher specifies the expected relationships between observed variables and latent factors a priori. Model fit can then be evaluated using indices such as the χ² test, CFI, TLI, RMSEA, and SRMR, together with parameter estimates such as factor loadings and factor correlations.
+- **CFA asks**: Does my hypothesized latent structure adequately explain these variables?
+
+### Factor analysis can be used to:
+- Examine the dimensional structure of questionnaires, rating scales, or behavioral measures
+- Identify groups of correlated variables that may reflect a common underlying construct
+- Evaluate whether survey items measure the intended latent constructs
 
 ---
 

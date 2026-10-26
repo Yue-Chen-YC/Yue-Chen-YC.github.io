@@ -14,8 +14,8 @@ title: Publications
 
 ---
 ## Conference Proceedings
-- **Chen, Y.** (2026). From <i>um<i> to words: The role of disfluency interactions in shaping early language development. In Proceedings of the 50th Annual Boston University Conference on Language Development (BUCLD 50). https://www.lingref.com/bucld/50/BUCLD50-14.pdf
-- **Chen, Y.,** Shang, M., Mai, Z. (2025). Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47). https://escholarship.org/uc/item/7xs6k5h2
+- **Chen, Y.** (2026). [From <i>um<i> to words: The role of disfluency interactions in shaping early language development](https://www.lingref.com/bucld/50/BUCLD50-14.pdf). In Proceedings of the 50th Annual Boston University Conference on Language Development (BUCLD 50). 
+- **Chen, Y.,** Shang, M., Mai, Z. (2025). [Cross-Linguistic Influence and Developmental Patterns in Reflexive Pronoun Use Among Monolingual, Bilingual, and Trilingual Children](https://escholarship.org/uc/item/7xs6k5h2). In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 47).
 
 ---
 ## Manuscripts Under Review

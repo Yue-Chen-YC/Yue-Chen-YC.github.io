@@ -19,7 +19,7 @@ title: Publications
 
 ---
 ## Manuscripts Under Review
-- He, M., Zhu, W. B., **Chen, Y.,** Kaiser, E., Du, W., Du, Y., Nastase, S., & Gao, Y. (2026). Language impairment as a lens onto large language models. arXiv preprint, arXiv:2610.28992. Submitted to NAACL 2027. https://arxiv.org/abs/2610.28992
+- He, M., Zhu, W. B., **Chen, Y.,** Kaiser, E., Du, W., Du, Y., Nastase, S., & Gao, Y. (2026). Language impairment as a lens onto large language models. arXiv preprint, arXiv:2610.28992. https://arxiv.org/abs/2610.28992
 
 ---
 ## Invited Talks

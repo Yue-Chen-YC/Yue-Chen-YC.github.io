@@ -19,7 +19,7 @@ title: Publications
 
 ---
 ## Manuscripts Under Review
-- **[Language Impairment as a Lens onto Large Language Models](https://arxiv.org/abs/2610.28992)**
+- [Language Impairment as a Lens onto Large Language Models](https://arxiv.org/abs/2610.28992)
   Muxuan He, Wang Bill Zhu, **Yue Chen**, Elsi Kaiser, Weizhi Du, Yao Du, Samuel Nastase, Yanjun Gao
   *Preprint, 2026.*
 

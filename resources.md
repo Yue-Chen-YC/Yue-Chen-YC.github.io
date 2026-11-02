@@ -11,6 +11,7 @@ title: Resources and Tutorials
 - [Vocabulary Assessment – PPVT](#ppvt)
 - [Transcription & Corpus Analysis – CLAN transcription + Batchalign2](#clan-batchalign2)
 - [Forced Alignment – Montreal Forced Aligner (MFA)](#mfa)
+- [Automatic Questionnaire Scoring – Qualtrics](#qualtrics-scoring)
 - [Factor analysis – in preparation](#factor)
 - [Psych Verb Corpus (English–Chinese) – in preparation](#psych-verb-corpus)
 - [Narrow Phonetic Transcription Project (Mandarin Chinese) – in preparation](#mandarin-tones-corpus)
@@ -91,6 +92,27 @@ Typical use cases include preparing data for formant analysis, VOT measurements,
 [Download Montreal Forced Aligner Tutorial (PDF)]({{ "/file/Montreal-Forced-Aligner.pdf" | relative_url }})
 
 This PDF provides a step-by-step guide to installing MFA with Miniconda, setting up a dedicated environment, installing MFA, downloading acoustic models and pronunciation dictionaries (e.g., english_us_arpa, mandarin_mfa), and running alignment commands from the terminal with concrete path examples and sample output. It is adapted from materials I developed for a project testing Whisper-based automatic transcription of naturalistic speech production.
+
+---
+
+## Automatic Questionnaire Scoring – Qualtrics {#qualtrics-scoring}
+
+### What is automatic scoring in Qualtrics?
+
+**Qualtrics** is an online platform for creating surveys, questionnaires, and behavioral research tasks. Its **scoring** feature allows researchers to assign numerical values to response options and calculate questionnaire scores automatically.
+
+Automatic scoring can be used to:
+- Calculate total scores and separate subscale scores
+- Apply reverse scoring to designated items
+- Export scores alongside participants’ responses for further analysis
+
+### Tutorial overview
+
+Using the **28-item Empathy Quotient (EQ-28)** as an example, this tutorial introduces questionnaire scoring, reverse-coded items, and three subscales: **Cognitive Empathy**, **Emotional Empathy**, and **Social Skills**.
+
+[Download Qualtrics Automatic Scoring Tutorial (PDF)]({{ "/file/Qualtrics_tutorial_automatic_scoring.pdf" | relative_url }})
+
+This PDF walks through creating questionnaires manually or importing them from the Qualtrics library, assigning scoring values, setting up total and subscale scores, and exporting the results as a CSV file. It also includes a link to a downloadable Qualtrics survey file (`.qsf`) containing English and Mandarin versions of the EQ, ASQ, Big Five, and IRI questionnaires, with items labeled by subdomain and reverse-coding status.
 
 ---
 ## Factor analysis – in preparation {#factor}

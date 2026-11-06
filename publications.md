@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Latest Update: Oct 26, 2026
+> Latest Update: Nov 6, 2026
 > 
 > Notes: I study how perspective/empathy and discourse structure shape reference in different languages, using corpora, experiments, and computational models.
 

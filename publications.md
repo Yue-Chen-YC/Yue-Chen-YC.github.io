@@ -57,12 +57,11 @@ title: Publications
 ## Manuscripts & Ongoing Projects
 
 ### Psycholinguistics
-- Mapping Minds in Language: Children’s Acquisition of Psychological Verbs *(project in development)*
 - Who Is Whom? Influences of Theta Roles and Discourse Topicality on the Resolution of Mandarin Reflexives *(manuscript in preparation)*
+- Same Cues, Different Minds: Theta Roles, Discourse Topicality, and Individual Differences in Mandarin Reflexive Resolution *(manuscript in preparation)*
+
 
 ### Computational Linguistics
-- Who Feels, Who Causes? Empathy Locus and Discourse Coherence in Large Language Models *(project in development)*
-- From Words to Social Worlds: Psych Verbs as Linguistic Probes of Social Cognition in Language Models *(project in development)*
-
-
-
+- What Do Theory-of-Mind Benchmarks Really Measure? Probing Construct Validity with LLM Personas *(project in development)*
+- When “I” Refers to You: Pronouns and Psych Verbs in Humans and Persona-Conditioned LLMs *(data collection in progress)*
+- From Words to Social Worlds: Psych Verbs as Linguistic Probes of Social Cognition in Language Models *(manuscript in preparation)*
